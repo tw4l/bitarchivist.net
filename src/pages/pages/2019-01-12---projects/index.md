@@ -27,7 +27,7 @@ Bulk Reviewer consists of two separate applications that communicate via websock
 
 A Flask web application for human-friendly exploration of Archivematica METS files.
 
-[Github](https://github.com/timothyryanwalsh/bulk-reviewer)
+[Github](https://github.com/timothyryanwalsh/metsflask)
 
 [Live demo](http://bitarchivist.pythonanywhere.com)
 
