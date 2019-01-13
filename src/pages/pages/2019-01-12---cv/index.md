@@ -95,7 +95,7 @@ Guest lecturer, **Architecture et Information 2.0**, Université de Montreal, Mo
 
 "[Preserving Removable Digital Media](https://www.nedcc.org/preservation-training/training-calendar/event-details?eventid=273)," online (two-hour webinar), NEDCC. Taught: 4 April 2017.  
 
-"[Introduction to Computer Aided Design (CAD) for Archivists](https://www.lyrasis.org/Pages/EventDetail.aspx?Eid=FF6E5D5B-2887-E611-80D3-00155D0A8C44)," online (two-hour webinar), LYRASIS. Taught: 9 March 2017 & 9 September 2017.
+"[Introduction to Computer Aided Design (CAD) for Archivists](https://www.lyrasis.org/Pages/EventDetail.aspx?Eid=FF6E5D5B-2887-E611-80D3-00155D0A8C44)," online (two-hour webinar), LYRASIS. Taught: 9 March 2017, 9 September 2017.
 
 ## Software Development
 
