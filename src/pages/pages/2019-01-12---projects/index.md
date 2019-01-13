@@ -29,7 +29,7 @@ A Flask web application for human-friendly exploration of Archivematica METS fil
 
 [Github](https://github.com/timothyryanwalsh/bulk-reviewer)
 
-[Live demo](https://bitarchivist.pythonanywhere.com)
+[Live demo](http://bitarchivist.pythonanywhere.com)
 
 ### CCA Tools (e.g. Disk Image Processor)
 
