@@ -103,7 +103,7 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
-"[Bulk Reviewer: A Software Application for Managing Sensitive Information in Digital Archives](http://www.carl-abrc.ca/mini-site-page/risk-north-2-digital-collections-2/agenda/)," @Risk North 2: Digital Collections, Montreal, QC, 9 November 2018.
+"[Bulk Reviewer: A Software Application for Managing Sensitive Information in Digital Archives](http://www.carl-abrc.ca/mini-site-page/risk-north-2-digital-collections-2/agenda/)" (lightning talk), @Risk North 2: Digital Collections, Canadian Association of Research Libraries, Montreal, QC, 9 November 2018.
 
 Panel moderator, "[Centralize it!: Creating Infrastructure to Support Digital Preservation](https://osf.io/wrh5t/)", iPRES 2018, Boston, MA, 25 September 2018.
 
