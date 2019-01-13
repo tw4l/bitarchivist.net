@@ -1,4 +1,4 @@
-Tim Walsh personal website using Gatsby and gatsby-v2-starter-lumen.
+Tim Walsh personal website using Gatsby and [gatsby-v2-starter-lumen](https://github.com/GatsbyCentral/gatsby-v2-starter-lumen).
 
 Standard project README preserved below:
 
