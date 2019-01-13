@@ -10,7 +10,7 @@ A Python command-line and GUI reporting tool for directories and disk images. Br
 
 Brunnhilde is installed as a standard utiltity in the [BitCurator]((https://wiki.bitcurator.net/index.php?title=BitCurator_Environment)) environment.
 
-[Github](https://github.com/timothyryanwalsh/brunnhilde)
+**> Links:** [Github](https://github.com/timothyryanwalsh/brunnhilde)
 
 ### Bulk Reviewer
 
@@ -21,30 +21,28 @@ Bulk Reviewer consists of two separate applications that communicate via websock
 * A backend application `server` built using [Django](https://www.djangoproject.com/), [Django Rest Framework](http://www.django-rest-framework.org/), [Celery](http://www.celeryproject.org/), [Django Channels](https://channels.readthedocs.io/en/latest/), [Postgres](https://www.postgresql.org/), [Redis](https://redis.io/) and [RabbitMQ](https://en.wikipedia.org/wiki/RabbitMQ).
 * A frontend single page application (SPA) `client` built using [Vue.js](https://vuejs.org/).
 
-[Github](https://github.com/timothyryanwalsh/bulk-reviewer)
+**> Links:** [Github](https://github.com/timothyryanwalsh/bulk-reviewer)
 
 ### METSFlask
 
 A Flask web application for human-friendly exploration of Archivematica METS files.
 
-[Github](https://github.com/timothyryanwalsh/metsflask)
-
-[Live demo](http://bitarchivist.pythonanywhere.com)
+**> Links:** [Github](https://github.com/timothyryanwalsh/metsflask), [Live demo](http://bitarchivist.pythonanywhere.com)
 
 ### CCA Tools (e.g. Disk Image Processor)
 
 Digital archives processing tools intended for use in [BitCurator](https://wiki.bitcurator.net/index.php?title=BitCurator_Environment), an open source Ubuntu-derived digital forensics environment for digital forensics and digital archiving.
 
-[Github](https://github.com/cca-public/cca-tools)
+**> Links:** [Github](https://github.com/cca-public/cca-tools)
 
 ### addext
 
 Command-line Python utility to add file extensions to files without them, based on DROID/Siegfried PRONOM-based file format identification.
 
-[Github](https://github.com/timothyryanwalsh/addext)
+**> Links:** [Github](https://github.com/timothyryanwalsh/addext)
 
 ### Independent Study: Access to Born-Digital Architectural Records (Spring 2015)
 
 This independent study supplemented other coursework taken in the MS in Library and Information Science program at Simmons College. The study focused on preservation and access for digital architecture and design records such as computer aided design (CAD) and Building Information Modeling (BIM), and resulted in a 49-page paper on the subject entitled "Preservation and Access of Born-Digital Architectural Design Records in an OAIS-Type Archive."
 
-[Reading list and paper](/projects/independentstudy/)
+**> Links:** [Reading list and paper](/projects/independentstudy/)
