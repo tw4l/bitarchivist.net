@@ -22,7 +22,7 @@ This independent study supplemented other coursework taken in the MS in Library 
 
 * [Cal Lee discusses the curation of digital media](https://www.youtube.com/watch?v=LAZzNfjXndw)
 * [CNI: How Are We Ensuring the Longevity of Digital Documents?](https://vimeo.com/5407401)
-* [eff Rothenberg Digital Preservation in Perspective How far have we come and what's next](https://www.youtube.com/watch?v=2Idbur1qR8I)
+* [Jeff Rothenberg Digital Preservation in Perspective How far have we come and what's next](https://www.youtube.com/watch?v=2Idbur1qR8I)
 
 ## Week Two: The Open Archival Information System (OAIS) Reference Model
 
