@@ -109,7 +109,7 @@ Panel moderator, "[Centralize it!: Creating Infrastructure to Support Digital Pr
 
 "[Bulk Reviewer](https://osf.io/frt7u/)" (lightning talk), iPRES 2018, Boston, MA, 25 September 2018.
 
-"[Managing the Environmental Impact of Digital Preservation](https://osf.io/6a9xv/)" (lightning talk, with Keith Pendergrass, Walker Sampson, and Laura Alagna), iPRES 2018, Boston, MA, 25 September 2018.
+"[Managing the Environmental Impact of Digital Preservation](https://osf.io/6a9xv/)" (lightning talk, with Keith Pendergrass, Walker Sampson, and Laura Alagna), iPRES 2018, Boston, MA, 25 September.
 
 "Bulk Reviewer", New Works: Library Innovation Lab Summer Fellow showcase, Harvard Law School, Boston, MA, 2 August 2018.
 

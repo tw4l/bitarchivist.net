@@ -25,8 +25,8 @@ updated for Gatsby v2 by the team at
 + Automatic RSS generation.
 + Automatic Sitemap generation.
 + Offline support.
-+ Google Analytics support.
-+ Disqus Comments support.
++ Google Analytics support. - DISABLED BY TW FOR PRIVACY REASONS
++ Disqus Comments support. - DISABLED BY TW FOR PRIVACY REASONS
 
 ## Folder Structure
 
