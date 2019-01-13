@@ -6,11 +6,9 @@ path: "/cv"
 
 ## Education
 
-**MS, Library & Information Science**
-[Simmons College](https://simmons.edu), Boston, MA, 2015
+**MS, Library & Information Science**, [Simmons College](https://simmons.edu), Boston, MA, 2015
 
-**BA, English**
-[University of Florida](http://www.ufl.edu/), Gainesville, FL, 2010
+**BA, English**, [University of Florida](http://www.ufl.edu/), Gainesville, FL, 2010
 
 ## Professional Experience
 
