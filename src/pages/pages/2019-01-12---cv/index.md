@@ -18,7 +18,7 @@ path: "/cv"
 * Leads and works in collaboration to develop policies, procedures, strategies and workflows to ensure long-term digital preservation of the Library's digital assets.
 * Participates in the administration and development of the Library’s technology infrastructure for digital preservation.
 * Coordinates the Library’s participation in local, regional and national web archiving projects. Establishes policies, procedures and workflows related to web archiving.
-* Provides training, workshops, and instruction on digital preservation for classroom, library and online learning environments.
+* Provides training, workshops, and instruction on digital preservation and subject areas for classroom, library and online learning environments.
 * Subject librarian and selector for Computer Science & Software Engineering; Mechanical, Industrial & Aerospace Engineering (MIAE); and Music.
 
 #### Library Innovation Lab at Harvard University (Cambridge, MA)
