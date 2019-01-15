@@ -188,6 +188,10 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 * Web Liaison, Design Records Section, 2015 - 2017
 * Member, Design Records Section CAD/BIM Taskforce, 2015 - present
 
+#### iPRES 2019 (International Conference on Digital Preservation, Amsterdam)
+
+* Program Committee member and Co-Chair, Posters, Videos, and Demos, 2018-2019
+
 #### Software Preservation Network
 
 * Coordinator, Documentation Working Group, 2016 - 2018 
