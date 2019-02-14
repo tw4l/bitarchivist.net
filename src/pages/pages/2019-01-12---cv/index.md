@@ -149,6 +149,12 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 "Democratizing Archives: Digital Libraries and the Expansion of the Archival User Base" (with Leah Edelman and Elizabeth McGorty), University of Indiana-Bloomington SAA Student Chapter Conference, Bloomington, IN, March 2014. 
 
+## Grants and Awards
+
+Concordia University Library Research Grant, 2019. "Bulk Reviewer: a software application for identifying and managing private and sensitive information in digital archives." Amount awarded: $4,000.
+
+Summer Fellowship, Library Innovation Lab at Harvard Law School, 2018.
+
 ## Skills
 
 #### General
