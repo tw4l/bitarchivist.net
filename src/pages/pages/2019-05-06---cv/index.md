@@ -103,6 +103,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+"[Episode 7: International Implications](https://www.softwarepreservationnetwork.org/blog/episode-7-international-implications/)" (with Ariel Katz, Peter Jaszi, and Krista Cox), Code of Best Practices in Fair Use for Software Preservation: Webinar Series. Association of Research Libraries/Software Preservation Network.
+
 "[Building REST API-backed Single Page Applications (SPAs) with Vue.js](https://osf.io/gfz6r/)", Code4Lib 2019, San Jose, CA, 20 February 2019.
 
 "[Coping with complex digital objects: from acquisition to access](https://www.youtube.com/watch?v=wTgX2JZzI40)" (video; two hour seminar on development of a digital preservation program and digital archives software tools/workflows at the Canadian Centre for Architecture, with Martien de Vletter, Stefana Breitweiser, Mireille Nappert, and Alexandra Jokinen), Canadian Centre for Architecture, Montreal, QC, 18 January 2019.
