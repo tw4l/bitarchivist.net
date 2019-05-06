@@ -103,7 +103,7 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
-"[Episode 7: International Implications](https://www.softwarepreservationnetwork.org/blog/episode-7-international-implications/)" (with Ariel Katz, Peter Jaszi, and Krista Cox), Code of Best Practices in Fair Use for Software Preservation: Webinar Series. Association of Research Libraries/Software Preservation Network.
+"[Episode 7: International Implications](https://www.softwarepreservationnetwork.org/blog/episode-7-international-implications/)" (with Ariel Katz, Peter Jaszi, and Krista Cox), Code of Best Practices in Fair Use for Software Preservation: Webinar Series. Association of Research Libraries/Software Preservation Network, 8 April 2019.
 
 "[Building REST API-backed Single Page Applications (SPAs) with Vue.js](https://osf.io/gfz6r/)", Code4Lib 2019, San Jose, CA, 20 February 2019.
 
