@@ -28,7 +28,7 @@ A Flask web application for human-friendly exploration of Archivematica METS fil
 
 ### CCA Tools (e.g. Disk Image Processor)
 
-Digital archives processing tools intended for use in [BitCurator](https://wiki.bitcurator.net/index.php?title=BitCurator_Environment), an open source Ubuntu-derived digital forensics environment for digital forensics and digital archiving.
+Digital archives processing tools intended for use in [BitCurator](https://wiki.bitcurator.net/index.php?title=BitCurator_Environment), an open source Ubuntu-derived Linux distribution for digital forensics and digital archiving.
 
 **> Links:** [Github](https://github.com/cca-public/cca-tools)
 
