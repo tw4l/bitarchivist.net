@@ -6,7 +6,7 @@ path: "/projects/independentstudy/"
 
 This independent study supplemented other coursework taken in the MS in Library and Information Science program at Simmons College. The study focused on preservation and access for digital architecture and design records such as computer aided design (CAD) and Building Information Modeling (BIM), and resulted in a 49-page paper on the subject entitled "Preservation and Access of Born-Digital Architectural Design Records in an OAIS-Type Archive."
 
-[Read/download paper](./walsh_CADArchiving2015_final.pdf)
+[Read/download paper](https://spectrum.library.concordia.ca/985426/)
 
 # Reading list
 
