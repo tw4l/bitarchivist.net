@@ -8,7 +8,7 @@ path: "/cv"
 
 **MS, Library & Information Science**, [Simmons College](https://simmons.edu), Boston, MA, 2015
 
-Independent study paper: [Preservation and Access of Born-Digital Architectural Design Records in an OAIS-Type Archive](https://spectrum.library.concordia.ca/985426/)
+* Independent study paper: [Preservation and Access of Born-Digital Architectural Design Records in an OAIS-Type Archive](https://spectrum.library.concordia.ca/985426/)
 
 **BA, English**, [University of Florida](http://www.ufl.edu/), Gainesville, FL, 2010
 
