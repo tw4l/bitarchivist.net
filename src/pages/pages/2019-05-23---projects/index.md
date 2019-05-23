@@ -18,7 +18,7 @@ Bulk Reviewer is an Electron desktop application that aids in identification, re
 
 A previous server-based prototype developed during a summer fellowship at the [Harvard Library Innovation Lab](https://lil.law.harvard.edu/) using Django, Django REST Framework, and Vue.js can be found [here](https://github.com/timothyryanwalsh/bulk-reviewer).
 
-**> Links:** [Github](https://github.com/bulk-reviewer/bulk-reviewer)
+**> Links:** [Github](https://github.com/bulk-reviewer/bulk-reviewer), [Documentation](https://bulk-reviewer.readthedocs.io/en/latest/)
 
 ### METSFlask
 
