@@ -26,6 +26,14 @@ A Flask web application for human-friendly exploration of Archivematica METS fil
 
 **> Links:** [Github](https://github.com/timothyryanwalsh/metsflask), [Live demo](http://bitarchivist.pythonanywhere.com)
 
+### SCOPE
+
+A digital archives access interface for Archivematica DIPs, built on Django and Elasticsearch, developed by Artefactual Systems and the Canadian Centre for Architecture.
+
+I designed and developed the initial proof-of-concept prototype of SCOPE using Django between October 2017-May 2018, based on research conducted as CCA's first digital archivist from 2015 on.
+
+**> Links:** [Github](https://github.com/cca-public/scope)
+
 ### CCA Tools (e.g. Disk Image Processor)
 
 Digital archives processing tools intended for use in [BitCurator](https://wiki.bitcurator.net/index.php?title=BitCurator_Environment), an open source Ubuntu-derived Linux distribution for digital forensics and digital archiving.

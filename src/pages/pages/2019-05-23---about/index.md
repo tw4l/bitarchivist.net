@@ -23,10 +23,11 @@ Some of my areas of interest and expertise include:
 * Scripting and automation
 * Web archiving
 
-In 2018 I was featured in an Atlas Obscura article about software preservation ([The Quest for a Universal Translator for Old, Obsolete Computer Files](https://www.atlasobscura.com/articles/how-to-open-old-computer-files)) and I'm still glowing.
+In 2018 I was featured in an Atlas Obscura article about software preservation ([The Quest for a Universal Translator for Old, Obsolete Computer Files](https://www.atlasobscura.com/articles/how-to-open-old-computer-files)).
 
 Other mentions of my work and examples of my software in use include:
 
+* ["SCOPE: A digital archives access interface"](https://journal.code4lib.org/articles/14283), Kelly Stewart and Stefana Breitwieser, Code4Lib Journal, Issue 43, 14 February 2019.
 * ["Improving Workflows at UNC Libraries' Wilson Special Collections Library"](https://saaers.wordpress.com/2018/10/16/improving-workflows-at-unc-libraries-wilson-special-collections-library/), Erica Titkemeyer and Jessica Venlet, bloggERS!: The Blog of SAA's Electronic Records Section, 16 October 2018.
 * ["GVSU Scripted IR Curation in the Cloud"](https://saaers.wordpress.com/2018/09/11/gvsu-scripted-ir-curation-in-the-cloud/), Matt Schultz and Kyle Felker, bloggERS!: The Blog of SAA's Electronic Records Section, 11 September 2018.  
 * ["Adapting the Disk Imaging Workflow"](https://www.lib.umich.edu/blogs/bits-and-pieces/adapting-disk-imaging-workflow), Lance Thomas Stuchell, Bits and Pieces: Digital Preservation and Research Data (University of Michigan Library blog), 29 May 2018.  
