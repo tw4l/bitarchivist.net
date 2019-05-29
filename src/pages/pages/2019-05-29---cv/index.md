@@ -202,9 +202,10 @@ Summer Fellowship, Library Innovation Lab at Harvard Law School, 2018.
 * Web Liaison, Design Records Section, 2015 - 2017
 * Member, Design Records Section CAD/BIM Taskforce, 2015 - present
 
-#### iPRES 2019 (International Conference on Digital Preservation, Amsterdam)
+#### iPRES 2019 (International Conference on Digital Preservation, Amsterdam, 16-20 September 2019)
 
-* Program Committee member and Co-Chair, Posters, Videos, and Demos, 2018-2019
+* Co-Chair, Posters and Demos
+* Organizing Committee member, Great Digital Preservation Bake-Off
 
 #### Software Preservation Network
 
