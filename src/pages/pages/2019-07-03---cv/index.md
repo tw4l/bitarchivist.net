@@ -69,19 +69,21 @@ path: "/cv"
 
 #### Peer Reviewed
 
-"[Efficient appraisal and processing of disk images of legacy digital storage media at the Canadian Centre for Architecture](https://www.henrystewartpublications.com/jdmm/v6)," Journal of Digital Media Management, Volume 6, Number 4, Summer 2018.
+Keith L. Pendergrass, Walker Sampson, Tim Walsh, and Laura Alagna. "[Toward Environmentally Sustainable Digital Preservation](https://americanarchivist.org/doi/10.17723/0360-9081-82.1.165), The American Archivist: Spring/Summer 2019, Vol. 82, No. 1, Spring/Summer 2019, pp. 165-206. Open access copy available: [https://dash.harvard.edu/handle/1/40741399](https://dash.harvard.edu/handle/1/40741399).
 
-"[Data-Driven Reporting and Processing of Digital Archives with Brunnhilde](https://practicaltechnologyforarchives.org/issue8_walsh/)," Practical Technology for Archives, Issue 8, July 2017.
+Tim Walsh. "[Efficient appraisal and processing of disk images of legacy digital storage media at the Canadian Centre for Architecture](https://www.henrystewartpublications.com/jdmm/v6)," Journal of Digital Media Management, Volume 6, Number 4, Summer 2018.
+
+Tim Walsh. "[Data-Driven Reporting and Processing of Digital Archives with Brunnhilde](https://practicaltechnologyforarchives.org/issue8_walsh/)," Practical Technology for Archives, Issue 8, July 2017.
 
 #### Non-Peer Reviewed
 
 Jessica Meyerson, Zach Vowell, Wendy Hagenmaier, Aliza Leventhal, Fernando Rios, Elizabeth Russey Roke and Tim Walsh. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
 
-"[How to Access Digital Files From the Nineties](http://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties)," CCA web feature, April 2017.  
+Tim Walsh. "[How to Access Digital Files From the Nineties](http://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties)," CCA web feature, April 2017.  
 
-"[Software Preservation Network: Collecting, Processing, and Providing Access to Software](https://saaers.wordpress.com/2016/10/04/software-preservation-network-collecting-processing-and-providing-access-to-software/)," bloggERS!: The Blog of SAA's Electronic Records Section, 4 October 2016.  
+Tim Walsh. "[Software Preservation Network: Collecting, Processing, and Providing Access to Software](https://saaers.wordpress.com/2016/10/04/software-preservation-network-collecting-processing-and-providing-access-to-software/)," bloggERS!: The Blog of SAA's Electronic Records Section, 4 October 2016.  
 
-Session review, "[S10. Providing Access to Born-Digital Materials](https://newenglandarchivists.org/resources/Documents/Newsletter/NEA_Newsletter_July_2015.pdf)," New England Archivists Newsletter 42 (3), July 2015.  
+Tim Walsh. Session review, "[S10. Providing Access to Born-Digital Materials](https://newenglandarchivists.org/resources/Documents/Newsletter/NEA_Newsletter_July_2015.pdf)," New England Archivists Newsletter 42 (3), July 2015.  
 
 ## Teaching
 
