@@ -69,7 +69,7 @@ path: "/cv"
 
 #### Peer Reviewed
 
-Keith L. Pendergrass, Walker Sampson, Tim Walsh, and Laura Alagna. "[Toward Environmentally Sustainable Digital Preservation](https://americanarchivist.org/doi/10.17723/0360-9081-82.1.165)," The American Archivist: Spring/Summer 2019, Vol. 82, No. 1, Spring/Summer 2019, pp. 165-206. Open access copy available: [https://dash.harvard.edu/handle/1/40741399](https://dash.harvard.edu/handle/1/40741399).
+Keith L. Pendergrass, Walker Sampson, Tim Walsh, and Laura Alagna. "[Toward Environmentally Sustainable Digital Preservation](https://americanarchivist.org/doi/10.17723/0360-9081-82.1.165)," The American Archivist, Vol. 82, No. 1, Spring/Summer 2019. Open access copy available: [https://dash.harvard.edu/handle/1/40741399](https://dash.harvard.edu/handle/1/40741399)
 
 Tim Walsh. "[Efficient appraisal and processing of disk images of legacy digital storage media at the Canadian Centre for Architecture](https://www.henrystewartpublications.com/jdmm/v6)," Journal of Digital Media Management, Volume 6, Number 4, Summer 2018.
 
