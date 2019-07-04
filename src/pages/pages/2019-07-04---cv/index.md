@@ -107,6 +107,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+"Steal this Workflow: Scaling Up Your Digital Preservation Program Through Automation" (three-hour education session with Stefana Breitwieser and Sarah Romkey), Association of Canadian Archivists 2019 Annual Conference, Toronto, ON, 6 June 2019.
+
 "[Episode 7: International Implications](https://www.softwarepreservationnetwork.org/blog/episode-7-international-implications/)" (with Ariel Katz, Peter Jaszi, and Krista Cox), Code of Best Practices in Fair Use for Software Preservation: Webinar Series. Association of Research Libraries/Software Preservation Network, 8 April 2019.
 
 "[Building REST API-backed Single Page Applications (SPAs) with Vue.js](https://osf.io/gfz6r/)", Code4Lib 2019, San Jose, CA, 20 February 2019.
