@@ -203,15 +203,19 @@ Summer Fellowship, Library Innovation Lab at Harvard Law School, 2018.
 
 # Professional Service
 
+#### International Conference on Digital Preservation (iPRES)
+
+* Co-Chair, Posters and Demos, iPRES 2019 (Amsterdam)
+* Organizing Committee member, Great Digital Preservation Bake-Off, iPRES 2019 (Amsterdam)
+
+#### Association of Canadian Archivists
+
+* Programme Committee member, ACA 2020 (Vancouver, BC)
+
 #### Society of American Archivists
 
 * Web Liaison, Design Records Section, 2015 - 2017
 * Member, Design Records Section CAD/BIM Taskforce, 2015 - present
-
-#### iPRES 2019 (International Conference on Digital Preservation, Amsterdam, 16-20 September 2019)
-
-* Co-Chair, Posters and Demos
-* Organizing Committee member, Great Digital Preservation Bake-Off
 
 #### Software Preservation Network
 
