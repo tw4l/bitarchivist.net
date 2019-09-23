@@ -107,6 +107,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+Brunnhilde demonstration, [Great Digital Preservation Bake-Off](https://ipres2019.org/program/?session=135), International Conference on Digital Preservation (iPRES) 2019, Amsterdam, Netherlands, 19 September 2019.
+
 "Steal this Workflow: Scaling Up Your Digital Preservation Program Through Automation" (three-hour education session with Stefana Breitwieser and Sarah Romkey), Association of Canadian Archivists 2019 Annual Conference, Toronto, ON, 6 June 2019.
 
 "[Episode 7: International Implications](https://www.softwarepreservationnetwork.org/blog/episode-7-international-implications/)" (with Ariel Katz, Peter Jaszi, and Krista Cox), Code of Best Practices in Fair Use for Software Preservation: Webinar Series. Association of Research Libraries/Software Preservation Network, 8 April 2019.
