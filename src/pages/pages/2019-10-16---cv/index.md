@@ -163,6 +163,8 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 ## Grants and Awards
 
+2019 National Digital Stewardship Alliance (NDSA) Individual Innovation Award
+
 Concordia University Library Research Grant, 2019. "Bulk Reviewer: a software application for identifying and managing private and sensitive information in digital archives." Amount awarded: $4,000.
 
 Summer Fellowship, Library Innovation Lab at Harvard Law School, 2018.
