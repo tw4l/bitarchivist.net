@@ -165,7 +165,9 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 ## Grants and Awards
 
-2019 National Digital Stewardship Alliance (NDSA) Individual Innovation Award
+National Digital Stewardship Alliance (NDSA) Individual Innovation Award, 2019.
+
+Canadian Association of Research Libraries Research in Librarianship Grant, Practicing Librarian, 2019. "National review of current workflows and methods for identifying sensitive information in digital collections" (with Jess Whyte). Amount awarded: $1,000.
 
 Concordia University Library Research Grant, 2019. "Bulk Reviewer: a software application for identifying and managing private and sensitive information in digital archives." Amount awarded: $4,000.
 
