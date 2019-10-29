@@ -107,6 +107,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+"Enacting Environmentally Sustainable Digital Preservation" (workshop with Keith Pendergrass and Laura Alagna), BitCurator Users Forum 2019, New Haven, CT, 24 October 2019.
+
 Brunnhilde demonstration, [Great Digital Preservation Bake-Off](https://ipres2019.org/program/?session=135), International Conference on Digital Preservation (iPRES) 2019, Amsterdam, Netherlands, 19 September 2019.
 
 "Steal this Workflow: Scaling Up Your Digital Preservation Program Through Automation" (three-hour education session with Stefana Breitwieser and Sarah Romkey), Association of Canadian Archivists 2019 Annual Conference, Toronto, ON, 6 June 2019.
