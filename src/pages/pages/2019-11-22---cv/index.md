@@ -93,7 +93,7 @@ Community counselor, [Archivematica Camp Baltimore](https://wiki.archivematica.o
 
 Guest lecturer, **Digital Curation (GLIS 649)**, McGill School of Information Studies, Montreal, QC. Lecture on digital preservation strategies and hands-on BitCurator workshop. Semesters: Winter 2018, Winter 2019.
 
-Guest lecturer, **Metadata and Access (GLIS 609)**, McGill School of Information Studies, Montreal, QC. Lecture on Archivematica and preservation metadata. Semesters: Winter 2018, Fall 2018.
+Guest lecturer, **Metadata and Access (GLIS 609)**, McGill School of Information Studies, Montreal, QC. Lecture on Archivematica and preservation metadata. Semesters: Winter 2018, Fall 2018, Fall 2019.
 
 Guest lecturer, **Architecture et Information 2.0**, Université de Montreal, Montreal, QC. Lecture on digital preservation infrastructures, digital archives as data, and Archaeology of the Digital project. Semesters: Winter 2017, Winter 2018.
 
