@@ -30,7 +30,7 @@ module.exports = {
       name: 'Tim Walsh',
       email: 'tim@bitarchivist.net',
       twitter: 'bitarchivist',
-      github: 'timothyryanwalsh',
+      github: 'tw4l',
     },
   },
   plugins: [
