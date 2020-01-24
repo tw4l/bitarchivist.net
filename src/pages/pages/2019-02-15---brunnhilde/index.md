@@ -10,4 +10,4 @@ A Python command-line and GUI reporting tool for directories and disk images. Br
 
 Brunnhilde was written to supplement existing file format identification and characterization tools, with a focus on producing human-readable high-level reports for digital archives and digital preservation practitioners. It is installed as a standard utility in the [BitCurator](https://wiki.bitcurator.net/index.php?title=BitCurator_Environment) environment.
 
-**> Links:** [Github](https://github.com/timothyryanwalsh/brunnhilde)
+**> Links:** [Github](https://github.com/tw4l/brunnhilde)
