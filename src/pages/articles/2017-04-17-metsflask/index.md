@@ -36,7 +36,7 @@ After pondering what such a thing might look like for a few months, in late Marc
 
 ![METSFlask](./metsflask.png)
 
-The result is (the admittedly boringly-named) [METSFlask](https://github.com/timothyryanwalsh/METSFlask). METSFlask is a web application written in Python using the Flask framework (get the name now?) that allows users to upload METS files and explore metadata from each amdSec associated with a file in the "original" fileGrp of the fileSec. In other words, metadata about each of the original files passed into Archivematica in the SIP.
+The result is (the admittedly boringly-named) [METSFlask](https://github.com/tw4l/METSFlask). METSFlask is a web application written in Python using the Flask framework (get the name now?) that allows users to upload METS files and explore metadata from each amdSec associated with a file in the "original" fileGrp of the fileSec. In other words, metadata about each of the original files passed into Archivematica in the SIP.
 
 ![METSFlask-AIP](./metsflask-aip.png)
 
@@ -134,5 +134,5 @@ I think METSFlask served its original purpose as a "proof of concept" for human-
 
 But our tools always work better and last longer when they're designed and sustained by a community. I'd love to get your feedback, ideas, contributions, etc., to see if we can't together push this idea to the next level.
 
-METSFlask repo: [https://github.com/timothyryanwalsh/METSFlask](https://github.com/timothyryanwalsh/METSFlask)  
+METSFlask repo: [https://github.com/tw4l/METSFlask](https://github.com/tw4l/METSFlask)  
 Live instance: [http://bitarchivist.pythonanywhere.com](http://bitarchivist.pythonanywhere.com)
