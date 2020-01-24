@@ -71,7 +71,7 @@ For the remainder of the presentation, I’m going to go over a few of these too
 
 ## Disk Image Processor
 
-The first tool I worked on, and perhaps the most crucial among the CCA Tools utilities, is the [Disk Image Processor](https://github.com/timothyryanwalsh/cca-diskimageprocessor).
+The first tool I worked on, and perhaps the most crucial among the CCA Tools utilities, is the [Disk Image Processor](https://github.com/tw4l/cca-diskimageprocessor).
 
 To give credit where it’s due, the inspiration for the Disk Image Processor came from Jess Whyte’s Disk-ID-md5deep script, which she discussed in the SAA Electronic Records Section blog article linked in this slide. In short, Jess’s script goes through a directory of disk images, uses the disktype utility to determine the file system for each one, and then uses either fiwalk or md5deep to create DFXML files for each image accordingly.
 
@@ -101,7 +101,7 @@ A more digestible version of the application flow might look like this:
 * Convert any forensic images to raw with [ewfexport](https://linux.die.net/man/1/ewfexport)  
 * Run [disktype](https://linux.die.net/man/1/disktype) against each image  
 * Depending on file system, use [fiwalk](http://www.forensicswiki.org/wiki/Fiwalk) or [md5deep](http://md5deep.sourceforge.net/) to generate DFXML and save to ”reports” directory  
-* Run [Brunnhilde](https://github.com/timothyryanwalsh/brunnhilde) and [Bulk Extractor](http://www.forensicswiki.org/wiki/Bulk_extractor), save outputs to “reports” directory  
+* Run [Brunnhilde](https://github.com/tw4l/brunnhilde) and [Bulk Extractor](http://www.forensicswiki.org/wiki/Bulk_extractor), save outputs to “reports” directory  
 * Create analysis spreadsheet  
 
 *Note: Based on feedback from Dr. Alex Nelson of NIST, md5deep has since been replaced by the walk_to_dfxml.py script included as part of the [DFXML Python bindings](https://github.com/simsong/dfxml/).*  
@@ -139,7 +139,7 @@ Again, it might be more helpful to look at the application flow another way:
 * Run [disktype](https://linux.die.net/man/1/disktype) against each image  
 * Depending on file system, use [fiwalk](http://www.forensicswiki.org/wiki/Fiwalk) or [md5deep](http://md5deep.sourceforge.net/) to generate DFXML and save to ”reports” directory  
 * Depending on file system, use [tsk_recover](http://www.sleuthkit.org/sleuthkit/man/tsk_recover.html), [HFSExplorer](http://www.catacombae.org/hfsexplorer/), or a mount-and-copy routine to export files  
-* Run [Brunnhilde](https://github.com/timothyryanwalsh/brunnhilde) (and, optionally, [Bulk Extractor](http://www.forensicswiki.org/wiki/Bulk_extractor)) and save outputs to metadata/submissionDocumentation  
+* Run [Brunnhilde](https://github.com/tw4l/brunnhilde) (and, optionally, [Bulk Extractor](http://www.forensicswiki.org/wiki/Bulk_extractor)) and save outputs to metadata/submissionDocumentation  
 * Generate file hashes with either [md5deep](http://md5deep.sourceforge.net/) or [bagit-python](https://github.com/LibraryOfCongress/bagit-python)  
 * Optionally, store disk image alongside files in objects directory  
 * Create description spreadsheet  
@@ -185,7 +185,7 @@ The CCA Tools include two tools meant specifically for network transfers and oth
 
 ## Folder Processor
 
-The first of these, [Folder Processor](https://github.com/timothyryanwalsh/cca-folderprocessor), is intended for a use case where an archivist wants to create a SIP for each of any number of selected directories.
+The first of these, [Folder Processor](https://github.com/tw4l/cca-folderprocessor), is intended for a use case where an archivist wants to create a SIP for each of any number of selected directories.
 
 ![Folder Processor](./buf-folderprocessor.png)
 
@@ -197,7 +197,7 @@ Each SIP has the following structure, similar to those put out by the Disk Image
 
 ## SIP Creator
 
-The [SIP Creator](https://github.com/timothyryanwalsh/cca-sipcreator) is a very similar utility, but intended for somewhat the opposite use case. It enables an archivist to create a single SIP from any number of individual directories and files. This enables more manual arrangement than is possible through the Folder Processor.
+The [SIP Creator](https://github.com/tw4l/cca-sipcreator) is a very similar utility, but intended for somewhat the opposite use case. It enables an archivist to create a single SIP from any number of individual directories and files. This enables more manual arrangement than is possible through the Folder Processor.
 
 ![SIP Creator](./buf-sipcreator.png)
 
@@ -227,4 +227,4 @@ Finally, my hope is that the CCA Tools inspire some dialogue about what we might
 
 ## Thanks
 
-Thank you all for listening. Please [check out the utilities on Github](https://github.com/timothyryanwalsh/cca-tools), and I’d be happy to answer any questions you might have, whether now, later on in the day, or any time through Twitter or email.
+Thank you all for listening. Please [check out the utilities on Github](https://github.com/tw4l/cca-tools), and I’d be happy to answer any questions you might have, whether now, later on in the day, or any time through Twitter or email.
