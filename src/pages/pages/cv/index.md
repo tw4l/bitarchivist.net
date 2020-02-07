@@ -14,13 +14,17 @@ path: "/cv"
 
 ## Professional Experience
 
-#### Concordia University Library (Montréal, QC)
-**Digital Preservation Librarian** | August 2018 - present
+#### Artefactual Systems (remote)
+**Software Developer** | March 2020 - present
 
-* Leads and works in collaboration to develop policies, procedures, strategies and workflows to ensure long-term digital preservation of the Library's digital assets.
-* Participates in the administration and development of the Library’s technology infrastructure for digital preservation.
-* Coordinates the Library’s participation in local, regional and national web archiving projects. Establishes policies, procedures and workflows related to web archiving.
-* Provides training, workshops, and instruction on digital preservation and subject areas for classroom, library and online learning environments.
+* Description to come
+
+#### Concordia University Library (Montréal, QC)
+**Digital Preservation Librarian** | August 2018 - February 2020
+
+* Lead Digital Preservation Working Group and worked with library and university stakeholders to develop policies, procedures, strategies and workflows to ensure long-term digital preservation of the Library's digital assets.
+* Lead development of the Library’s technological infrastructure for digital preservation.
+* Provided training, workshops, and instruction on digital preservation and subject areas for classroom, library and online learning environments.
 * Subject librarian and selector for Computer Science & Software Engineering; Mechanical, Industrial & Aerospace Engineering (MIAE); and Music.
 
 #### Library Innovation Lab at Harvard University (Cambridge, MA)
@@ -76,6 +80,8 @@ Tim Walsh. "[Efficient appraisal and processing of disk images of legacy digital
 Tim Walsh. "[Data-Driven Reporting and Processing of Digital Archives with Brunnhilde](https://practicaltechnologyforarchives.org/issue8_walsh/)," Practical Technology for Archives, Issue 8, July 2017.
 
 #### Non-Peer Reviewed
+
+Tomasz Neugebauer, Pierre Lasou, Andrea Kosavic, and Tim Walsh. "[Digital Preservation Functionality in Canadian Repositories](http://www.carl-abrc.ca/wp-content/uploads/2019/12/orwg_report2_preservation_repos_en.pdf)," Canadian Association of Research Libraries, Open Repositories Report Series, December 2019.
 
 Jessica Meyerson, Zach Vowell, Wendy Hagenmaier, Aliza Leventhal, Fernando Rios, Elizabeth Russey Roke and Tim Walsh. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
 
