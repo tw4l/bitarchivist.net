@@ -4,11 +4,11 @@ layout: page
 path: "/about"
 ---
 
-My name is Tim Walsh. I am a digital preservationist and software developer based in Montreal. I work as the Digital Preservation Librarian at [Concordia University](https://concordia.ca).
+Looking for a bio? Use this!
 
-Prior to joining Concordia University Library, I was a 2018 Summer Fellow at the [Library Innovation Lab at Harvard University](https://lil.law.harvard.edu). Between 2015-2018 I planned and implemented a 5 FTE digital preservation program as the Digital Archivist at the [Canadian Centre for Architecture](https://cca.qc.ca). While working on my MS in Library and Information Science from [Simmons University](https://www.simmons.edu/) (then Simmons College) in Boston, I was lucky enough to work and be mentored in archives and/or digital preservation at [Harvard Business School Historical Collections](https://library.harvard.edu/libraries/baker-business), [Tufts University Digital Collections and Archives](https://sites.tufts.edu/dca/), and the University of Wyoming's [American Heritage Center](http://www.uwyo.edu/ahc/). I am a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html).
-
-I am also a software developer with experience building command-line, GUI, and web applications using technologies like Python, Django, Django Rest Framework, PyQt5, JavaScript, and Vue.js. I am a strong believer in free and open source software (FOSS) and am the developer/maintainer of several FOSS digital preservation software utilities.
+```
+Tim Walsh (pronouns: [they/them](http://pronoun.is/they)) is a digital preservationist and software developer based in Montreal. Tim has experience as an archivist and academic librarian at institutions such as Concordia University, the Canadian Centre for Architecture, Harvard Business School, and Tufts University. They are a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html). Tim is the maintainer of several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask).
+```
 
 Some of my areas of interest and expertise include:
 
