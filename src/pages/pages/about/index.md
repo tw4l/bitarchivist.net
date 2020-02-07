@@ -6,7 +6,7 @@ path: "/about"
 
 Looking for a bio? Feel free to use this:
 
-Tim Walsh (pronouns: [they/them](http://pronoun.is/they)) is a digital preservationist and software developer based in Montreal with experience as an archivist and academic librarian at institutions such as Concordia University, the Canadian Centre for Architecture, Harvard Business School, and Tufts University. They are a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html). Tim is the maintainer of several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask).
+Tim Walsh (pronouns: [they/them](http://pronoun.is/they)) is a digital preservationist, archivist, and software developer based in Montreal with experience at institutions such as Concordia University, the Canadian Centre for Architecture, Harvard Business School, and Tufts University. They are a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html). Tim is the maintainer of several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask).
 
 Okay, now back to the first person!
 
