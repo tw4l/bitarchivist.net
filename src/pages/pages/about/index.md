@@ -6,7 +6,7 @@ path: "/about"
 
 My name is Tim Walsh ([they/them](https://pronoun.is/they)). I am a digital preservationist and software developer based in Montreal. I work as a software developer at [Artefactual Systems](https://www.artefactual.com/).
 
-Prior to joining Artefactual, I developed and implemented digital preservation programs as a Digital Preservation Librarian at Concordia University and as a Digital Archivist at the Canadian Centre for Architecture. I am a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
+Prior to joining Artefactual, I developed and implemented digital preservation programs as Digital Preservation Librarian at [Concordia University](https://concordia.ca/) and Digital Archivist at the [Canadian Centre for Architecture](https://cca.qc.ca). I am a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
 
 I am the maintainer of several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask), and enjoy software development using programming languages and frameworks like Python, Django, Flask, JavaScript, and Vue.js.
 
