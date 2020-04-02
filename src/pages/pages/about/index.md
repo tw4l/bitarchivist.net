@@ -4,25 +4,22 @@ layout: page
 path: "/about"
 ---
 
-Looking for a bio? Feel free to use this:
+My name is Tim Walsh ([they/them](https://pronoun.is/they)). I am a digital preservationist and software developer based in Montreal. I work as a software developer at [Artefactual Systems](https://www.artefactual.com/).
 
-"Tim Walsh (pronouns: [they/them](http://pronoun.is/they)) is a digital preservationist and software developer based in Montreal. They work as a software developer at [Artefactual Systems](https://www.artefactual.com/).
+Prior to joining Artefactual, I developed and implemented digital preservation programs as a Digital Preservation Librarian at Concordia University and as a Digital Archivist at the Canadian Centre for Architecture. I am a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
 
-Prior to joining Artefactual, Tim worked as an archivist, digital archivist, and academic librarian at institutions such as Concordia University, the Canadian Centre for Architecture, Harvard Business School, and Tufts University. They are a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and were a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
+I am the maintainer of several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask), and enjoy software development using programming languages and frameworks like Python, Django, Flask, JavaScript, and Vue.js.
 
-Tim is also the maintainer of several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask)."
-
-Some of my areas of interest and expertise include:
+Some of my interests and areas of expertise include:
 
 * Digital architecture and design records
 * Management of sensitive information in digital archives
 * Environmental sustainability of digital preservation
-* Digital preservation repository system planning and design
+* Digital preservation and curation workflows
+* Digital forensics
 * Archivematica
 * BitCurator
-* Digital forensics and digital processing workflows
-* Scripting and automation
-* Web archiving
+* Digital preservation repository system planning and design
 
 Interviews, mentions of my work, and examples of my software in use include:
 
