@@ -10,7 +10,7 @@ Looking for a bio? Feel free to use this:
 
 Prior to joining Artefactual, Tim worked as an archivist, digital archivist, and academic librarian at institutions such as Concordia University, the Canadian Centre for Architecture, Harvard Business School, and Tufts University. They are a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and were a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
 
-Tim is also the maintainer of several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask).""
+Tim is also the maintainer of several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask)."
 
 Some of my areas of interest and expertise include:
 
