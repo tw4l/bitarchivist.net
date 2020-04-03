@@ -113,6 +113,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+"[Enacting Environmentally Sustainable Preservation](https://www.dpconline.org/events/enacting-environmentally-sustainable-preservation)" (online webinar with Keith Pendergrass, Walker Sampson, and Laura Alagna), Digital Preservation Coalition, 3 April 2020.
+
 "Bulk Reviewer" (webinar), BitCurator Consortium monthly meeting, 22 November 2019.
 
 "Enacting Environmentally Sustainable Digital Preservation" (workshop with Keith Pendergrass and Laura Alagna), BitCurator Users Forum 2019, New Haven, CT, 24 October 2019.
