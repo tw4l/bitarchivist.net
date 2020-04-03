@@ -17,7 +17,12 @@ path: "/cv"
 #### Artefactual Systems (remote)
 **Software Developer** | March 2020 - present
 
-* Description to come
+* Works on software development tasks as part of Artefactual's Project Delivery team.
+* Performs peer review of code by Artefactual and external developers.
+* Participates in requirements analysis, technical documentation, testing, and other development-related tasks.
+* Helps to define the technical architecture needed for particular client solutions.
+* Develops and delivers developer-focused trainings.
+* Provides public outreach and community support relating to Archivematica and AtoM as open source projects.
 
 #### Concordia University Library (Montréal, QC)
 **Digital Preservation Librarian** | August 2018 - February 2020
