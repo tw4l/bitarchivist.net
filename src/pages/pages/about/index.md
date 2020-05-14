@@ -4,7 +4,7 @@ layout: page
 path: "/about"
 ---
 
-My name is Tim Walsh ([they/them](https://pronoun.is/they)). I am a digital preservationist and software developer based in Montreal. I work as a software developer at [Artefactual Systems](https://www.artefactual.com/).
+My name is Tessa Walsh. I am a digital preservationist based in Montréal and a software developer at [Artefactual Systems](https://www.artefactual.com/). I use [she/her](https://pronoun.is/she) and [they/them](https://pronoun.is/they) pronouns.
 
 Prior to joining Artefactual, I developed and implemented digital preservation programs as Digital Preservation Librarian at [Concordia University](https://concordia.ca/) and Digital Archivist at the [Canadian Centre for Architecture](https://cca.qc.ca). I am a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
 

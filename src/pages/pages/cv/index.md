@@ -78,27 +78,27 @@ path: "/cv"
 
 #### Peer Reviewed
 
-Keith L. Pendergrass, Walker Sampson, Tim Walsh, and Laura Alagna. "[Toward Environmentally Sustainable Digital Preservation](https://americanarchivist.org/doi/10.17723/0360-9081-82.1.165)," The American Archivist, Volume 82, Number 1, Spring/Summer 2019. Open access copy available: [https://dash.harvard.edu/handle/1/40741399](https://dash.harvard.edu/handle/1/40741399)
+K. Pendergrass, W. Sampson, **T. Walsh**, and L. Alagna. "[Toward Environmentally Sustainable Digital Preservation](https://americanarchivist.org/doi/10.17723/0360-9081-82.1.165)," The American Archivist, Volume 82, Number 1, Spring/Summer 2019. Open access copy available: [https://dash.harvard.edu/handle/1/40741399](https://dash.harvard.edu/handle/1/40741399)
 
-Tim Walsh. "[Efficient appraisal and processing of disk images of legacy digital storage media at the Canadian Centre for Architecture](https://www.henrystewartpublications.com/jdmm/v6)," Journal of Digital Media Management, Volume 6, Number 4, Summer 2018.
+**T. Walsh**. "[Efficient appraisal and processing of disk images of legacy digital storage media at the Canadian Centre for Architecture](https://www.henrystewartpublications.com/jdmm/v6)," Journal of Digital Media Management, Volume 6, Number 4, Summer 2018.
 
-Tim Walsh. "[Data-Driven Reporting and Processing of Digital Archives with Brunnhilde](https://practicaltechnologyforarchives.org/issue8_walsh/)," Practical Technology for Archives, Issue 8, July 2017.
+**T. Walsh**. "[Data-Driven Reporting and Processing of Digital Archives with Brunnhilde](https://practicaltechnologyforarchives.org/issue8_walsh/)," Practical Technology for Archives, Issue 8, July 2017.
 
 #### Non-Peer Reviewed
 
-Tomasz Neugebauer, Pierre Lasou, Andrea Kosavic, and Tim Walsh. "[Digital Preservation Functionality in Canadian Repositories](http://www.carl-abrc.ca/wp-content/uploads/2019/12/orwg_report2_preservation_repos_en.pdf)," Canadian Association of Research Libraries, Open Repositories Report Series, December 2019.
+T. Neugebauer, P. Lasou, A. Kosavic, and **T. Walsh**. "[Digital Preservation Functionality in Canadian Repositories](http://www.carl-abrc.ca/wp-content/uploads/2019/12/orwg_report2_preservation_repos_en.pdf)," Canadian Association of Research Libraries, Open Repositories Report Series, December 2019.
 
-Jessica Meyerson, Zach Vowell, Wendy Hagenmaier, Aliza Leventhal, Fernando Rios, Elizabeth Russey Roke and Tim Walsh. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
+J. Meyerson, Z. Vowell, W. Hagenmaier, A. Leventhal, F. Rios, E. Roke and **T. Walsh**. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
 
-Tim Walsh. "[How to Access Digital Files From the Nineties](http://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties)," CCA web feature, April 2017.  
+**T. Walsh**. "[How to Access Digital Files From the Nineties](http://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties)," CCA web feature, April 2017.  
 
-Tim Walsh. "[Software Preservation Network: Collecting, Processing, and Providing Access to Software](https://saaers.wordpress.com/2016/10/04/software-preservation-network-collecting-processing-and-providing-access-to-software/)," bloggERS!: The Blog of SAA's Electronic Records Section, 4 October 2016.  
+**T. Walsh**. "[Software Preservation Network: Collecting, Processing, and Providing Access to Software](https://saaers.wordpress.com/2016/10/04/software-preservation-network-collecting-processing-and-providing-access-to-software/)," bloggERS!: The Blog of SAA's Electronic Records Section, 4 October 2016.  
 
-Tim Walsh. Session review, "[S10. Providing Access to Born-Digital Materials](https://newenglandarchivists.org/resources/Documents/Newsletter/NEA_Newsletter_July_2015.pdf)," New England Archivists Newsletter 42 (3), July 2015.  
+**T. Walsh**. Session review, "[S10. Providing Access to Born-Digital Materials](https://newenglandarchivists.org/resources/Documents/Newsletter/NEA_Newsletter_July_2015.pdf)," New England Archivists Newsletter 42 (3), July 2015.  
 
 ## Teaching
 
-Co-instructor (with Aliza Leventhal), [Managing Physical & Digital Architecture, Design & Construction Records](https://www2.archivists.org/prof-education/course-catalog/managing-physical-digital-architecture-design-and-construction-records), Society of American Archivists. Two-day course offered as part of the SAA Arrangement & Description certificate program. Taught at ARCHIVES\*RECORDS 2018, Washington, DC, 13-14 August 2018.
+Co-instructor (with Aliza Leventhal), [Managing Physical & Digital Architecture, Design & Construction Records](https://www2.archivists.org/prof-education/course-catalog/managing-physical-digital-architecture-design-and-construction-records), Society of American Archivists. Two-day course offered as part of the SAA Arrangement & Description certificate program. Taught: ARCHIVES\*RECORDS 2018, Washington, DC, 13-14 August 2018; College of William & Mary, Williamsburg, VA, 9-10 March, 2020.
 
 Community counselor, [Archivematica Camp Baltimore](https://wiki.archivematica.org/Community/Camps/Baltimore2018), Johns Hopkins University, Baltimore, MD, 21-22 June 2018.
 

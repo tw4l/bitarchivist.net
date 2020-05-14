@@ -4,7 +4,7 @@ const pxtorem = require('postcss-pxtorem')
 module.exports = {
   siteMetadata: {
     url: 'https://bitarchivist.net',
-    title: 'Tim Walsh',
+    title: 'Tessa Walsh',
     subtitle:
       'Digital preservationist and software developer',
     copyright: 'All content on this site CC-BY 4.0.',
@@ -27,8 +27,8 @@ module.exports = {
       },
     ],
     author: {
-      name: 'Tim Walsh',
-      email: 'tim@bitarchivist.net',
+      name: 'Tessa Walsh',
+      email: 'tessa@bitarchivist.net',
       twitter: 'bitarchivist',
       github: 'tw4l',
     },
