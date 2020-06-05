@@ -23,6 +23,7 @@ Some of my interests and areas of expertise include:
 
 Interviews, mentions of my work, and examples of my software in use include:
 
+* ["Spotlight: Interview with Tessa Walsh, Artefactual"](https://saaers.wordpress.com/2020/05/26/spotlight-interview-with-tessa-walsh-artefactual/), bloggERS!: The Blog of SAA's Electronic Records Section, 26 May 2020.
 * ["What's Your Set-up? Born-Digital Processing at NC State University Libraries"](https://saaers.wordpress.com/2020/03/17/whats-your-set-up-nc-state-university-libraries/), Brian Dietz, bloggERS!: The Blog of SAA's Electronic Records Section, 17 March 2020.
 * ["Concordia librarian wins an international award for his innovations in digital stewardship and preservation"](http://www.concordia.ca/cunews/main/stories/2019/10/30/concordia-librarian-wins-an-international-award-for-his-innovations-in-digital-stewardship-and-preservation.html?c=/news/archive), Ashley Fortier and Leslie Goldstein, Concordia University News, 30 October 2019.
 * ["SCOPE: A digital archives access interface"](https://journal.code4lib.org/articles/14283), Kelly Stewart and Stefana Breitwieser, Code4Lib Journal, Issue 43, 14 February 2019.
