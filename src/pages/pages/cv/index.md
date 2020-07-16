@@ -180,7 +180,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 ## Grants and Awards
 
-Society of American Archivist Fellows' Ernst Posner Award (with co-authors Keith Pendergrass, Walker Sampson, and Laura Alagna), 2020.
+Society of American Archivists Fellows' Ernst Posner Award (with co-authors Keith Pendergrass, Walker Sampson, and Laura Alagna), 2020.
 
 National Digital Stewardship Alliance (NDSA) Individual Innovation Award, 2019.
 
