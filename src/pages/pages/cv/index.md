@@ -180,6 +180,8 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 ## Grants and Awards
 
+Society of American Archivist Fellows' Ernst Posner Award (with co-authors Keith Pendergrass, Walker Sampson, and Laura Alagna), 2020, for article "Toward Environmentally Sustainable Digital Preservation" published in American Archivist.
+
 National Digital Stewardship Alliance (NDSA) Individual Innovation Award, 2019.
 
 Canadian Association of Research Libraries Research in Librarianship Grant, Practicing Librarian, 2019. "National review of current workflows and methods for identifying sensitive information in digital collections" (with Jess Whyte). Amount awarded: $1,000.
