@@ -27,8 +27,8 @@ path: "/cv"
 #### Concordia University Library (Montréal, QC)
 **Digital Preservation Librarian** | August 2018 - February 2020
 
-* Lead Digital Preservation Working Group and worked with library and university stakeholders to develop policies, procedures, strategies and workflows to ensure long-term digital preservation of the Library's digital assets.
-* Lead development of the Library’s technological infrastructure for digital preservation.
+* Led Digital Preservation Working Group and worked with library and university stakeholders to develop policies, procedures, strategies and workflows to ensure long-term digital preservation of the Library's digital assets.
+* Led development of the Library’s technological infrastructure for digital preservation.
 * Provided training, workshops, and instruction on digital preservation and subject areas for classroom, library and online learning environments.
 * Subject librarian and selector for Computer Science & Software Engineering; Mechanical, Industrial & Aerospace Engineering (MIAE); and Music.
 
