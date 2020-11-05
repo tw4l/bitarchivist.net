@@ -182,7 +182,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 ## Grants and Awards
 
-Finalist, Dutch Digital Heritage Network Award for Teaching and Communications (with co-authors Keith Pendergrass, Walker Sampson, and Laura Alagna), Digital Preservation Awards, 2020.
+Finalist, Dutch Digital Heritage Network Award for Teaching and Communications (with co-authors Keith Pendergrass, Walker Sampson, and Laura Alagna), Digital Preservation Coalition Digital Preservation Awards, 2020.
 
 Society of American Archivists Fellows' Ernst Posner Award (with co-authors Keith Pendergrass, Walker Sampson, and Laura Alagna), 2020.
 
