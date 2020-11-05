@@ -102,6 +102,8 @@ Co-instructor (with Aliza Leventhal), [Managing Physical & Digital Architecture,
 
 Community counselor, [Archivematica Camp Baltimore](https://wiki.archivematica.org/Community/Camps/Baltimore2018), Johns Hopkins University, Baltimore, MD, 21-22 June 2018.
 
+Guest lecturer, **Preservation Management (GLIS 642)**, McGill School of Information Studies, Montreal, QC. Lecture on digital preservation strategies and NDSA Levels of Digital Preservation. Semesters: Fall 2020.
+
 Guest lecturer, **Digital Curation (GLIS 649)**, McGill School of Information Studies, Montreal, QC. Lecture on digital preservation strategies and hands-on BitCurator workshop. Semesters: Winter 2018, Winter 2019.
 
 Guest lecturer, **Metadata and Access (GLIS 609)**, McGill School of Information Studies, Montreal, QC. Lecture on Archivematica and preservation metadata. Semesters: Winter 2018, Fall 2018, Fall 2019.
