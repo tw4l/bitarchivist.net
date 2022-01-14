@@ -78,6 +78,8 @@ path: "/cv"
 
 #### Peer Reviewed
 
+A. Leventhal, J. Collins, **T. Walsh**. "[Of Grasshoppers and Rhinos: A Visual Literacy Approach to Born-Digital Design Records](https://meridian.allenpress.com/american-archivist/article-abstract/84/2/281/474478/Of-Grasshoppers-and-Rhinos-A-Visual-Literacy?redirectedFrom=PDF)," The American Archivist, Volume 84, Number 2, Fall/Winter 2021.
+
 K. Pendergrass, W. Sampson, **T. Walsh**, and L. Alagna. "[Toward Environmentally Sustainable Digital Preservation](https://americanarchivist.org/doi/10.17723/0360-9081-82.1.165)," The American Archivist, Volume 82, Number 1, Spring/Summer 2019. Open access copy available: [https://dash.harvard.edu/handle/1/40741399](https://dash.harvard.edu/handle/1/40741399)
 
 **T. Walsh**. "[Efficient appraisal and processing of disk images of legacy digital storage media at the Canadian Centre for Architecture](https://www.henrystewartpublications.com/jdmm/v6)," Journal of Digital Media Management, Volume 6, Number 4, Summer 2018.
