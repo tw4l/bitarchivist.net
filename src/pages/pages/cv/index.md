@@ -122,6 +122,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+"[Digital Tools for Privacy and Confidentiality: Bulk Reviewer Demo and Q&A](https://www.youtube.com/watch?v=JvSMOelYAr4)" (online webinar), Society of American Archivists Privacy & Confidentiality Section, 16 November 2021.
+
 "[Enacting Environmentally Sustainable Preservation](https://www.dpconline.org/events/enacting-environmentally-sustainable-preservation)" (online webinar with Keith Pendergrass, Walker Sampson, and Laura Alagna), Digital Preservation Coalition, 3 April 2020.
 
 "Bulk Reviewer" (webinar), BitCurator Consortium monthly meeting, 22 November 2019.
