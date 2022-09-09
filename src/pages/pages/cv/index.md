@@ -14,15 +14,27 @@ path: "/cv"
 
 ## Professional Experience
 
-#### Artefactual Systems (remote)
-**Software Developer** | March 2020 - present
+#### Webrecorder (remote)
+**Senior Applications and Tools Engineer** | September 2022 - current
 
-* Works on software development tasks as part of Artefactual's Project Delivery team.
-* Performs peer review of code by Artefactual and external developers.
-* Participates in requirements analysis, technical documentation, testing, and other development-related tasks.
-* Helps to define the technical architecture needed for particular client solutions.
-* Develops and delivers developer-focused trainings.
-* Provides public outreach and community support relating to Archivematica and AtoM as open source projects.
+* Works with leader developer and other team members on various free and open source Webrecorder appliation tools and applications, including pywb, browswertrix-crawler, browsertrix-cloud, replayweb.page, archiveweb.page, and other related tools.
+* Assists with project planning and road-mapping.
+* Creates and updates documentation as needed in the course of development.
+
+#### Artefactual Systems (remote)
+**Software Developer** | March 2020 - September 2022
+
+* Developed software in Python, Javascript, and PHP as part of Artefactual's Project Delivery team, on the [Archivematica](https://archivematica.org/en/) and [Access to Memory (AtoM)](https://accesstomemory.org/en/) open source projects and related tools.
+* Performed code review of contributions by Artefactual and external developers, requirements analysis, technical documentation, testing, and other development-related tasks.
+* Helped to define the technical architecture needed for particular client solutions.
+* Provided public outreach and community support relating to Archivematica and AtoM as open source projects.
+* Some specific accomplishments:
+	* Implemented an [rclone](https://rclone.org) storage adapater for the Archivematica Storage Service to support the use of nearly any cloud service provider.
+	* Added CAS single sign-on (SSO) support to Archivematica and AtoM.
+	* Helped mature and extend [AIPscan](https://github.com/artefactual-labs/aipscan), a Flask-based reporting application for Archivematica: set architectural patterns in the code base, added new reports, increased unit and integration test coverage significantly (from ~25% to 75% unit test coverage), and made code quality improvements.
+	* Implemented several client data migrations from other archival management systems into AtoM.
+	* Implemented AtoM frontend themes using Sass, Bootstrap 5, JavaScript, and PHP.
+	* Developed [auditmatica](https://github.com/artefactual-labs/auditmatica), a CLI auditing tool based on nginx access logs for Archivematica.
 
 #### Concordia University Library (Montréal, QC)
 **Digital Preservation Librarian** | August 2018 - February 2020

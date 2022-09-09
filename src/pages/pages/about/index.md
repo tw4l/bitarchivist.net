@@ -4,11 +4,17 @@ layout: page
 path: "/about"
 ---
 
-My name is Tessa Walsh. I am a digital preservationist based in Montréal and a software developer at [Artefactual Systems](https://www.artefactual.com/). I use [she/her](https://pronoun.is/she) and [they/them](https://pronoun.is/they) pronouns.
+My name is Tessa Walsh. I am a digital preservationist and software developer based in Montréal. I use [she/her](https://pronoun.is/she) and [they/them](https://pronoun.is/they) pronouns.
 
-Prior to joining Artefactual, I developed and implemented digital preservation programs as Digital Preservation Librarian at [Concordia University](https://concordia.ca/) and Digital Archivist at the [Canadian Centre for Architecture](https://cca.qc.ca). I am a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
+I currently work as Senior Applications and Tools Engineer at [Webrecorder](https://webrecorder.net), where I develop and maintain free and open source web archiving tools for all.
 
-I am the maintainer of several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask), and enjoy software development using programming languages and frameworks like Python, Django, Flask, JavaScript, and Vue.js.
+Prior to joining Webrecorder, I was a software developer at [Artefactual Systems](https://artefactual.com), where I worked on the free and open source [Archivematica](https://archivematica.org) and [Access to Memory (AtoM)](https://accesstomemory.org) projects and related tools, and helped a wide range of clients meet their digital preservation, archival management, and access needs.
+
+Prior to working professionally as a software developer, I developed and implemented digital preservation programs as Digital Preservation Librarian at [Concordia University](https://concordia.ca/) and Digital Archivist at the [Canadian Centre for Architecture](https://cca.qc.ca).
+
+I also maintain several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask), and enjoy software development using programming languages and frameworks like Python, Django, Flask, JavaScript, and Vue.js.
+
+I am a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
 
 Some of my interests and areas of expertise include:
 
@@ -17,8 +23,7 @@ Some of my interests and areas of expertise include:
 * Environmental sustainability of digital preservation
 * Digital preservation and curation workflows
 * Digital forensics
-* Archivematica
-* BitCurator
+* Web archiving
 * Digital preservation repository system planning and design
 
 Interviews, mentions of my work, and examples of my software in use include:
