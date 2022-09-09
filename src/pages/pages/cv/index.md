@@ -17,7 +17,7 @@ path: "/cv"
 #### Webrecorder (remote)
 **Senior Applications and Tools Engineer** | September 2022 - current
 
-* Works with leader developer and other team members on various free and open source Webrecorder appliation tools and applications, including pywb, browswertrix-crawler, browsertrix-cloud, replayweb.page, archiveweb.page, and other related tools.
+* Works with lead developer and other team members on various free and open source Webrecorder appliation tools and applications, including pywb, browswertrix-crawler, browsertrix-cloud, replayweb.page, archiveweb.page, and other related tools.
 * Assists with project planning and road-mapping.
 * Creates and updates documentation as needed in the course of development.
 
