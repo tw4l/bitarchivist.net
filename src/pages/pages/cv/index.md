@@ -29,7 +29,7 @@ path: "/cv"
 * Helped to define the technical architecture needed for particular client solutions.
 * Provided public outreach and community support relating to Archivematica and AtoM as open source projects.
 * Some specific accomplishments:
-	* Implemented an [rclone](https://rclone.org) storage adapater for the Archivematica Storage Service to support the use of nearly any cloud service provider.
+	* Implemented an [rclone](https://rclone.org) storage adapter for the Archivematica Storage Service to support the use of nearly any cloud service provider.
 	* Added CAS single sign-on (SSO) support to Archivematica and AtoM.
 	* Helped mature and extend [AIPscan](https://github.com/artefactual-labs/aipscan), a Flask-based reporting application for Archivematica: set architectural patterns in the code base, added new reports, increased unit and integration test coverage significantly (from ~25% to 75% unit test coverage), and made code quality improvements.
 	* Implemented several client data migrations from other archival management systems into AtoM.
