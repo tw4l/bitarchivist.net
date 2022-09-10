@@ -95,7 +95,7 @@
             }
         }
     }
-    &__home-button {
+    &__blog-button {
         display: block;
         margin-left: auto;
         margin-right: auto;
@@ -155,7 +155,7 @@
                 @include margin-bottom(1.125);
             }
         }
-        &__home-button {
+        &__blog-button {
             position: fixed;
             max-width: auto;
             margin: 0;
