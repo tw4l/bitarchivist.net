@@ -10,21 +10,21 @@ module.exports = {
     copyright: 'All content on this site CC-BY 4.0.',
     menu: [
       {
-        label: 'Blog',
+        label: 'About',
         path: '/',
       },
       {
-        label: 'About',
-        path: '/about/',
+        label: 'CV',
+        path: '/cv/',
       },
       {
         label: 'Projects',
         path: '/projects/',
       },
       {
-        label: 'CV',
-        path: '/cv/',
-      },
+        label: 'Blog',
+        path: '/blog/',
+      }
     ],
     author: {
       name: 'Tessa Walsh',

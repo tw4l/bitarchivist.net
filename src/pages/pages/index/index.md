@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: page
-path: "/about"
+path: "/"
 ---
 
 My name is Tessa Walsh. I am a digital preservationist and software developer based in Montréal. I use [she/her](https://pronoun.is/she) and [they/them](https://pronoun.is/they) pronouns.

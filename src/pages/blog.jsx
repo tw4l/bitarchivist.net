@@ -5,7 +5,7 @@ import Layout from '../components/Layout'
 import Post from '../components/Post'
 import Sidebar from '../components/Sidebar'
 
-class IndexRoute extends React.Component {
+class BlogRoute extends React.Component {
   render() {
     const items = []
     const { title, subtitle } = this.props.data.site.siteMetadata
@@ -31,7 +31,7 @@ class IndexRoute extends React.Component {
   }
 }
 
-export default IndexRoute
+export default BlogRoute
 
 export const pageQuery = graphql`
   query IndexQuery {
