@@ -17,9 +17,15 @@ path: "/cv"
 #### Webrecorder (remote)
 **Senior Applications and Tools Engineer** | September 2022 - current
 
-* Works with lead developer and other team members on various free and open source Webrecorder applications, including pywb, browswertrix-crawler, browsertrix-cloud, replayweb.page, archiveweb.page, and other related tools.
+* Works with lead developer and other team members on various free and open source Webrecorder applications, including:
+	* [pywb](https://github.com/webrecorder/pywb): widely-used wayback machine implemented in Python
+	* [browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler): web crawler implemented in JavaScript, Node.js, and Puppeteer
+	* [browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud): cloud web archiving system implemented with Python/FastAPI (backend), Typescript/LitElement (frontend), and Kubernetes
+	* [replayweb.page](https://github.com/webrecorder/replayweb.page): WARC/WACZ web archive replay system implemented in JavaScript
+	* [archiveweb.page](https://github.com/webrecorder/archiveweb.page): Chrome extension to create web archives from user-driven behavior in browser, implemented in JavaScript
+	* related tools and libraries
 * Assists with project planning and roadmapping.
-* Creates and updates documentation as needed in the course of development.
+* Creates and updates documentation.
 
 #### Artefactual Systems (remote)
 **Software Developer** | March 2020 - September 2022
@@ -232,17 +238,18 @@ Summer Fellowship, Library Innovation Lab at Harvard Law School, 2018.
 
 #### Software Development
 
-* **Programming languages:** Python, JavaScript (ES6), SQL, shell scripting
-* **Backend frameworks:** Django, Django REST Framework, Django Channels, Flask
+* **Programming languages:** Python, JavaScript (ES6), Typescript, SQL, shell scripting
+* **Backend frameworks:** FastAPI, Django, Django REST Framework, Django Channels, Flask
 * **Static site generators:** Gatsby, Hugo, Jekyll
-* **Front end:** Vue.js, CSS3, Flexbox, Bootstrap 4, jQuery
-* **Markup languages:** HTML5, XML/XSLT, JSON, Markdown  
-* **Version control:** git, Github  
-* **Continuous integration:** TravisCI, tox
+* **Front end:** Vue.js, LitElement, CSS3, Flexbox, Bootstrap, jQuery
+* **Markup languages:** HTML5, XML/XSLT, JSON, Markdown, YAML
+* **Version control:** git, Github
+* **Continuous integration:** GitHub Actions, TravisCI, tox
 * **Databases:** SQLite, MySQL, MS SQL Server, SQLAlchemy
 * **GUI Frameworks:** PyQt  
 * **Operating Systems:** Linux, macOS, Windows  
-* **Containers:** Docker, Docker Compose
+* **Containers:** Docker, Docker Compose, Kubernetes
+
 
 # Professional Service
 
