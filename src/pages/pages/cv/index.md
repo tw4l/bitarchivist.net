@@ -18,7 +18,7 @@ path: "/cv"
 **Senior Applications and Tools Engineer** | September 2022 - current
 
 * Works with lead developer and other team members on various free and open source Webrecorder applications, including:
-	* [pywb](https://github.com/webrecorder/pywb): widely-used wayback machine implemented in Python
+	* [pywb](https://github.com/webrecorder/pywb): widely-used wayback machine implemented in Python, JavaScript, and Vue.js
 	* [browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler): web crawler implemented in JavaScript, Node.js, and Puppeteer
 	* [browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud): cloud web archiving system implemented in Python/FastAPI (backend), Typescript/LitElement (frontend), and Kubernetes
 	* [replayweb.page](https://github.com/webrecorder/replayweb.page): WARC/WACZ web archive replay system implemented in JavaScript
