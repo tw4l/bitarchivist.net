@@ -20,7 +20,7 @@ path: "/cv"
 * Works with lead developer and other team members on various free and open source Webrecorder applications, including:
 	* [pywb](https://github.com/webrecorder/pywb): widely-used wayback machine implemented in Python
 	* [browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler): web crawler implemented in JavaScript, Node.js, and Puppeteer
-	* [browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud): cloud web archiving system implemented with Python/FastAPI (backend), Typescript/LitElement (frontend), and Kubernetes
+	* [browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud): cloud web archiving system implemented in Python/FastAPI (backend), Typescript/LitElement (frontend), and Kubernetes
 	* [replayweb.page](https://github.com/webrecorder/replayweb.page): WARC/WACZ web archive replay system implemented in JavaScript
 	* [archiveweb.page](https://github.com/webrecorder/archiveweb.page): Chrome extension to create web archives from user-driven behavior in browser, implemented in JavaScript
 	* related tools and libraries
