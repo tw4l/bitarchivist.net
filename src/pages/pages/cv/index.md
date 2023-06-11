@@ -140,6 +140,10 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+"Sustaining pywb through community engagement and renewal: recent roadmapping and development as a case study in open source web archiving tool sustainability", IIPC Web Archiving Conference 2023, Hilversum, Netherlands, 12 May 2023.
+
+"Browser-Based Crawling For All: Getting Started with Browsertrix Cloud" (assisted participants with use of Browsertrix Cloud, with Ilya Kreymer, Anders Klint Myrvoll, and Andy Jackson), IIPC Web Archiving Conference 2023, Hilversum, Netherlands, 12 May 2023.
+
 "[Digital Tools for Privacy and Confidentiality: Bulk Reviewer Demo and Q&A](https://www.youtube.com/watch?v=JvSMOelYAr4)" (online webinar), Society of American Archivists Privacy & Confidentiality Section, 16 November 2021.
 
 "[Enacting Environmentally Sustainable Preservation](https://www.dpconline.org/events/enacting-environmentally-sustainable-preservation)" (online webinar with Keith Pendergrass, Walker Sampson, and Laura Alagna), Digital Preservation Coalition, 3 April 2020.
@@ -219,7 +223,30 @@ Summer Fellowship, Library Innovation Lab at Harvard Law School, 2018.
 ## Skills
 
 #### General
-* **Languages:** English (fluent), French (advanced intermediate - assessed at level B2)  
+
+* **Languages:** English (fluent), French (just shy of fluent)  
+
+
+#### Software Development
+
+* **Programming languages:** Python, JavaScript, Typescript, SQL, PHP, bash
+* **Backend frameworks:** FastAPI, Django, Django REST Framework, Django Channels, Flask
+* **Static site generators:** Gatsby, Hugo, Jekyll
+* **Front end:** Vue.js, LitElement, CSS3, Flexbox, Bootstrap, jQuery
+* **Markup languages:** HTML5, XML/XSLT, JSON, Markdown, YAML
+* **Version control:** git, Github
+* **Continuous integration:** GitHub Actions, TravisCI, tox
+* **Databases:** SQLite, MySQL, Mongo, SQLAlchemy
+* **GUI Frameworks:** PyQt  
+* **Operating Systems:** Linux, macOS, Windows  
+* **Containers:** Docker, Docker Compose, Kubernetes
+
+#### Digital Preservation
+
+* **Digital preservation models/standards:** Deep knowledge of OAIS and Trusted Digital Repositories  
+* **Digital preservation software:** Experience implementing and managing daily use and customization of production multi-server Archivematica-based digital preservation repository.
+* **Digital forensics:** BitCurator, FTK Imager, The Sleuth Kit (TSK), Bulk Extractor, Kryoflux
+* **Emulation/virtualization:** QEMU, SheepShaver, Basilisk II, VirtualBox, VMWare
 
 #### Archives
 
@@ -227,28 +254,6 @@ Summer Fellowship, Library Innovation Lab at Harvard Law School, 2018.
 * **Data structure standards:** EAD, EAC-CPF, MARC, MODS, METS, PREMIS, Dublin Core  
 * **Archival processing:** Experience arranging and describing large and small collections of paper, audiovisual, and born-digital records independently and collaboratively.  
 * **Archival reference:** Experience helping students, faculty, staff, administrators, professional authors, and genealogists discover and access archival materials relevant to their research interests in person, by phone, and by email.  
-
-#### Digital Preservation
-
-* **Digital preservation models/standards:** OAIS, Trusted Digital Repositories  
-* **Digital preservation software:** Experience implementing and managing daily use and customization of production multi-server Archivematica-based digital repository.
-* **Digital forensics:** BitCurator, FTK Imager, The Sleuth Kit (TSK), Bulk Extractor, Kryoflux
-* **Emulation/virtualization:** QEMU, SheepShaver, Basilisk II, VirtualBox, VMWare
-
-
-#### Software Development
-
-* **Programming languages:** Python, JavaScript (ES6), Typescript, SQL, shell scripting
-* **Backend frameworks:** FastAPI, Django, Django REST Framework, Django Channels, Flask
-* **Static site generators:** Gatsby, Hugo, Jekyll
-* **Front end:** Vue.js, LitElement, CSS3, Flexbox, Bootstrap, jQuery
-* **Markup languages:** HTML5, XML/XSLT, JSON, Markdown, YAML
-* **Version control:** git, Github
-* **Continuous integration:** GitHub Actions, TravisCI, tox
-* **Databases:** SQLite, MySQL, MS SQL Server, SQLAlchemy
-* **GUI Frameworks:** PyQt  
-* **Operating Systems:** Linux, macOS, Windows  
-* **Containers:** Docker, Docker Compose, Kubernetes
 
 
 # Professional Service
@@ -265,7 +270,7 @@ Summer Fellowship, Library Innovation Lab at Harvard Law School, 2018.
 #### Society of American Archivists
 
 * Web Liaison, Design Records Section, 2015 - 2017
-* Member, Design Records Section CAD/BIM Taskforce, 2015 - present
+* Member, Design Records Section CAD/BIM Taskforce, 2015 - 2018
 
 #### Software Preservation Network
 
