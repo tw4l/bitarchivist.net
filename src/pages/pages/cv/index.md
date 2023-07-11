@@ -96,6 +96,8 @@ path: "/cv"
 
 #### Peer Reviewed
 
+J. Whyte, **T. Walsh**. "'Carefully and Cautiously': How Canadian Cultural Memory Workers Review Digital Materials for Private and Sensitive Information," Partnership: The Canadian Journal of Library and Information Practice and Research, 2023 (forthcoming).
+
 A. Leventhal, J. Collins, **T. Walsh**. "[Of Grasshoppers and Rhinos: A Visual Literacy Approach to Born-Digital Design Records](https://meridian.allenpress.com/american-archivist/article-abstract/84/2/281/474478/Of-Grasshoppers-and-Rhinos-A-Visual-Literacy?redirectedFrom=PDF)," The American Archivist, Volume 84, Number 2, Fall/Winter 2021.
 
 K. Pendergrass, W. Sampson, **T. Walsh**, and L. Alagna. "[Toward Environmentally Sustainable Digital Preservation](https://americanarchivist.org/doi/10.17723/0360-9081-82.1.165)," The American Archivist, Volume 82, Number 1, Spring/Summer 2019. Open access copy available: [https://dash.harvard.edu/handle/1/40741399](https://dash.harvard.edu/handle/1/40741399)
