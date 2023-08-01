@@ -214,7 +214,7 @@ Finalist, Dutch Digital Heritage Network Award for Teaching and Communications (
 
 Society of American Archivists Fellows' Ernst Posner Award (with co-authors Keith Pendergrass, Walker Sampson, and Laura Alagna), 2020.
 
-National Digital Stewardship Alliance (NDSA) Individual Innovation Award, 2019.
+National Digital Stewardship Alliance (NDSA) Individual Innovation Award (since renamed to NDSA Excellence Award), 2019.
 
 Canadian Association of Research Libraries Research in Librarianship Grant, Practicing Librarian, 2019. "National review of current workflows and methods for identifying sensitive information in digital collections" (with Jess Whyte). Amount awarded: $1,000.
 

@@ -14,7 +14,7 @@ Before working professionally as a software developer, I developed and implement
 
 I also maintain several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde), [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and [METSFlask](https://github.com/tw4l/metsflask), and enjoy software development using programming languages and frameworks like Python, Django, Flask, JavaScript, and Vue.js.
 
-I am a recipient of a [2019 NDSA Individual Innovation Award](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
+I am a recipient of a [2019 NDSA Individual Innovation Award (since renamed to NDSA Excellence Award)](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
 
 Some of my interests and areas of expertise include:
 
