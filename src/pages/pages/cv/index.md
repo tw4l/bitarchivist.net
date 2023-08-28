@@ -142,7 +142,7 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
-"Sustaining pywb through community engagement and renewal: recent roadmapping and development as a case study in open source web archiving tool sustainability", IIPC Web Archiving Conference 2023, Hilversum, Netherlands, 12 May 2023.
+"[Sustaining pywb through community engagement and renewal: recent roadmapping and development as a case study in open source web archiving tool sustainability](https://digital.library.unt.edu/ark:/67531/metadc2143922/)", IIPC Web Archiving Conference 2023, Hilversum, Netherlands, 12 May 2023.
 
 "Browser-Based Crawling For All: Getting Started with Browsertrix Cloud" (assisted participants with use of Browsertrix Cloud, with Ilya Kreymer, Anders Klint Myrvoll, and Andy Jackson), IIPC Web Archiving Conference 2023, Hilversum, Netherlands, 12 May 2023.
 
