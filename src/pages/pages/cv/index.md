@@ -96,7 +96,7 @@ path: "/cv"
 
 #### Peer Reviewed
 
-J. Whyte, **T. Walsh**. "'Carefully and Cautiously': How Canadian Cultural Memory Workers Review Digital Materials for Private and Sensitive Information," Partnership: The Canadian Journal of Library and Information Practice and Research, 2023 (forthcoming).
+J. Whyte, **T. Walsh**. "'Carefully and Cautiously': How Canadian Cultural Memory Workers Review Digital Materials for Private and Sensitive Information," Partnership: The Canadian Journal of Library and Information Practice and Research, 2024 (forthcoming).
 
 A. Leventhal, J. Collins, **T. Walsh**. "[Of Grasshoppers and Rhinos: A Visual Literacy Approach to Born-Digital Design Records](https://meridian.allenpress.com/american-archivist/article-abstract/84/2/281/474478/Of-Grasshoppers-and-Rhinos-A-Visual-Literacy?redirectedFrom=PDF)," The American Archivist, Volume 84, Number 2, Fall/Winter 2021.
 
@@ -141,6 +141,8 @@ Guest lecturer, **Architecture et Information 2.0**, Université de Montreal, Mo
 See information on software projects [here](/projects/).
 
 ## Presentations
+
+"Reckoning with the environmental impact of digital preservation," Digital Sobriety in Information Management seminar, Concordia University, Montreal, QC, 17 April 2024.
 
 "[Sustaining pywb through community engagement and renewal: recent roadmapping and development as a case study in open source web archiving tool sustainability](https://digital.library.unt.edu/ark:/67531/metadc2143922/)", IIPC Web Archiving Conference 2023, Hilversum, Netherlands, 12 May 2023.
 
