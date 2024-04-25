@@ -240,7 +240,7 @@ Summer Fellowship, Library Innovation Lab at Harvard Law School, 2018.
 * **Programming languages:** Python, JavaScript, Typescript, SQL, PHP, bash
 * **Backend frameworks:** FastAPI, Django, Django REST Framework, Django Channels, Flask
 * **Static site generators:** Gatsby, Hugo, Jekyll
-* **Front end:** Vue.js, LitElement, CSS3, Flexbox, Bootstrap, jQuery
+* **Front end:** Vue.js, LitElement, Shoelace, CSS3, Tailwind, Flexbox, Bootstrap, jQuery
 * **Markup languages:** HTML5, XML/XSLT, JSON, Markdown, YAML
 * **Version control:** git, Github
 * **Continuous integration:** GitHub Actions, TravisCI, tox
