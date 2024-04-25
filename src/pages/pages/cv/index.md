@@ -17,13 +17,13 @@ path: "/cv"
 #### Webrecorder (remote)
 **Senior Applications and Tools Engineer** | September 2022 - current
 
-* Works with lead developer and other team members on various free and open source Webrecorder applications, including:
-	* [pywb](https://github.com/webrecorder/pywb): widely-used wayback machine implemented in Python, JavaScript, and Vue.js
-	* [browsertrix-crawler](https://github.com/webrecorder/browsertrix-crawler): web crawler implemented in JavaScript, Node.js, and Puppeteer
-	* [browsertrix-cloud](https://github.com/webrecorder/browsertrix-cloud): cloud web archiving system implemented in Python/FastAPI (backend), Typescript/LitElement (frontend), and Kubernetes
-	* [replayweb.page](https://github.com/webrecorder/replayweb.page): WARC/WACZ web archive replay system implemented in JavaScript
-	* [archiveweb.page](https://github.com/webrecorder/archiveweb.page): Chrome extension to create web archives from user-driven behavior in browser, implemented in JavaScript
-	* related tools and libraries
+* Works with lead developer and other team members to develop and maintain various free and open source Webrecorder applications, including:
+	* [Browsertrix](https://github.com/webrecorder/browsertrix): High fidleity cloud-native web archiving system implemented in Python/FastAPI (backend), Typescript/LitElement/Shoelace (frontend), and Kubernetes
+	* [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler): Web crawler implemented in TypeScript, Node.js, and Puppeteer, running in a single Docker container
+	* [pywb](https://github.com/webrecorder/pywb): Widely-used wayback machine implemented in Python, JavaScript, and Vue.js
+	* [ReplayWeb.page](https://github.com/webrecorder/replayweb.page): Client-side WARC/WACZ web archive replay system implemented in TypeScript
+	* [ArchiveWeb.page](https://github.com/webrecorder/archiveweb.page): Chromium extension to create web archives from user-driven behavior in browser, implemented in TypeScript
+	* Related tools and libraries
 * Assists with project planning and roadmapping.
 * Creates and updates documentation.
 
