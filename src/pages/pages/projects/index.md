@@ -4,6 +4,8 @@ layout: page
 path: "/projects"
 ---
 
+## Personal Projects
+
 ### Brunnhilde
 
 A Python command-line and GUI reporting tool for directories and disk images. Brunnhilde bundles tools such as [Siegfried](https://www.itforarchivists.com/siegfried), [ClamAV](https://www.clamav.net/), [bulk_extractor](https://forensicswiki.org/wiki/Bulk_extractor), The Sleuthkit (TSK)'s [tsk\_recover](https://sleuthkit.org/sleuthkit/man/tsk_recover.html), [HFS Explorer](http://www.catacombae.org/hfsexplorer/), and [fiwalk](https://www.forensicswiki.org/wiki/Fiwalk) to streamline appraisal and minimal processing of digital archives.
@@ -51,3 +53,35 @@ Command-line Python utility to add file extensions to files without them, based 
 This independent study supplemented other coursework taken in the MS in Library and Information Science program at Simmons College. The study focused on preservation and access for digital architecture and design records such as computer aided design (CAD) and Building Information Modeling (BIM), and resulted in a 49-page paper on the subject entitled "Preservation and Access of Born-Digital Architectural Design Records in an OAIS-Type Archive."
 
 **> Links:** [Reading list and paper](/projects/independentstudy/)
+
+## Collaborative Open Source Projects I've Worked On
+
+### Browsertrix
+
+High fidelity cloud-native web archiving system implemented in Python/FastAPI (backend), Typescript/LitElement/Shoelace (frontend), and Kubernetes.
+
+**> Links:** [Github](https://github.com/webrecorder/browsertrix), [Product site](https://browsertrix.com)
+
+### Browsertrix Crawler
+
+Web crawler implemented in TypeScript, Node.js, and Puppeteer, running in a single Docker container.
+
+**> Links:** [Github](https://github.com/webrecorder/browsertrix-crawler)
+
+### pwyb
+
+Widely-used web archive discovery and playback system ("wayback machine") implemented in Python, JavaScript, and Vue.js.
+
+**> Links:** [Github](https://github.com/webrecorder/pywb)
+
+### Archivematica
+
+Web-based digital preservation system to ingest, characterize, migrate, package, and store digital objects in accordance with the ISO-OAIS functional model, using archival standards such as METS, PREMIS, Dublin Core, and BagIt. Implemented in Python, Django, and JavaScript.
+
+**> Links:** [Github](https://github.com/artefactual/archivematica), [Documentation](https://archivematica.org/en/)
+
+### Access To Memory (AtoM)
+
+web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment, implemented in PHP and JavaScript.
+
+**> Links:** [Github](https://github.com/artefactual/atom), [Documentation](**> Links:** [Github](https://github.com/artefactual/archivematica), [Documentation](https://archivematica.org/en/))
