@@ -76,12 +76,12 @@ Widely-used web archive discovery and playback system ("wayback machine") implem
 
 ### Archivematica
 
-Web-based digital preservation system to ingest, characterize, migrate, package, and store digital objects in accordance with the ISO-OAIS functional model, using archival standards such as METS, PREMIS, Dublin Core, and BagIt. Implemented in Python, Django, and JavaScript.
+Web-based digital preservation system to ingest, characterize, migrate, package, and store digital objects in accordance with the ISO-OAIS functional model, using archival standards such as METS, PREMIS, Dublin Core, and BagIt, implemented in Python, Django, and JavaScript.
 
 **> Links:** [Github](https://github.com/artefactual/archivematica), [Documentation](https://archivematica.org/en/)
 
 ### Access To Memory (AtoM)
 
-web-based, open source application for standards-based archival description and access in a multilingual, multi-repository environment, implemented in PHP and JavaScript.
+Web-based application for standards-based archival description and access in a multilingual, multi-repository environment, implemented in PHP and JavaScript.
 
 **> Links:** [Github](https://github.com/artefactual/atom), [Documentation](**> Links:** [Github](https://github.com/artefactual/archivematica), [Documentation](https://archivematica.org/en/))
