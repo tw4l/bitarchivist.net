@@ -142,6 +142,10 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+"Machine-Assisted Quality Assurance in Browsertrix" (with Ilya Kreymer), IIPC Web Archiving Conference 2024, Paris, France, 26 April 2024.
+
+"Workshop: Introduction to Quality Assurance with Browsertrix" (with Ilya Kreymer, Henry Wilkinson), IIPC Web Archiving Conference 2024, Paris, France, 25 April 2024.
+
 "Reckoning with the environmental impact of digital preservation," Digital Sobriety in Information Management seminar, Concordia University, Montreal, QC, 17 April 2024.
 
 "[Sustaining pywb through community engagement and renewal: recent roadmapping and development as a case study in open source web archiving tool sustainability](https://digital.library.unt.edu/ark:/67531/metadc2143922/)", IIPC Web Archiving Conference 2023, Hilversum, Netherlands, 12 May 2023.
