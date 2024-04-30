@@ -190,7 +190,7 @@ Closing remarks, [Designing the Future Landscape: Digital Architecture, Design a
 
 "ADE Formats Primer" (with Aliza Leventhal and Katie Pierce Meyer), [Designing the Future Landscape: Digital Architecture, Design and Engineering Assets](https://web.archive.org/web/20180313050254/http://digitalpreservation.gov/meetings/ade/ade2017.html), Library of Congress, Washington, DC, 16 November 2017.
 
-"[Software-Driven Workflows for Efficient Processing of Large-Scale Digital Archives]https://web.archive.org/web/20240430180220/https://archives2017.sched.com/event/c4739bf0b3f07908ebe2df9ab5bf0e95)," ARCHIVES 2017, Session 201: The Future of Appraisal and Processing of Digital Materials: Software, Strategies and Scalability, Portland, OR, 27 July 2017.
+"[Software-Driven Workflows for Efficient Processing of Large-Scale Digital Archives](https://web.archive.org/web/20240430180220/https://archives2017.sched.com/event/c4739bf0b3f07908ebe2df9ab5bf0e95)," ARCHIVES 2017, Session 201: The Future of Appraisal and Processing of Digital Materials: Software, Strategies and Scalability, Portland, OR, 27 July 2017.
 
 "[Automated Processing of Disk Images and Directories in BitCurator](https://bitarchivist.net/blog/2017-05-01-buf2017/)," BitCurator Users Forum, Northwestern University, Chicago, IL, 28 April 2017.
 
