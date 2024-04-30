@@ -120,9 +120,9 @@ J. Meyerson, Z. Vowell, W. Hagenmaier, A. Leventhal, F. Rios, E. Roke and **T. W
 
 ## Teaching
 
-Co-instructor (with Aliza Leventhal), [Managing Physical & Digital Architecture, Design & Construction Records](https://www2.archivists.org/prof-education/course-catalog/managing-physical-digital-architecture-design-and-construction-records), Society of American Archivists. Two-day course offered as part of the SAA Arrangement & Description certificate program. Taught: ARCHIVES\*RECORDS 2018, Washington, DC, 13-14 August 2018; College of William & Mary, Williamsburg, VA, 9-10 March, 2020.
+Co-instructor (with Aliza Leventhal), [Managing Physical & Digital Architecture, Design & Construction Records](https://web.archive.org/web/20240209123831/https://www2.archivists.org/prof-education/course-catalog/managing-physical-digital-architecture-design-and-construction-records), Society of American Archivists. Two-day course offered as part of the SAA Arrangement & Description certificate program. Taught: ARCHIVES\*RECORDS 2018, Washington, DC, 13-14 August 2018; College of William & Mary, Williamsburg, VA, 9-10 March, 2020.
 
-Community counselor, [Archivematica Camp Baltimore](https://wiki.archivematica.org/Community/Camps/Baltimore2018), Johns Hopkins University, Baltimore, MD, 21-22 June 2018.
+Community counselor, [Archivematica Camp Baltimore](https://web.archive.org/web/20230125190421/https://wiki.archivematica.org/Community/Camps/Baltimore2018), Johns Hopkins University, Baltimore, MD, 21-22 June 2018.
 
 Guest lecturer, **Preservation Management (GLIS 642)**, McGill School of Information Studies, Montreal, QC. Lecture on digital preservation strategies and NDSA Levels of Digital Preservation. Semesters: Fall 2020.
 
@@ -132,9 +132,9 @@ Guest lecturer, **Metadata and Access (GLIS 609)**, McGill School of Information
 
 Guest lecturer, **Architecture et Information 2.0**, Université de Montreal, Montreal, QC. Lecture on digital preservation infrastructures, digital archives as data, and Archaeology of the Digital project. Semesters: Winter 2017, Winter 2018.
 
-"[Preserving Removable Digital Media](https://www.nedcc.org/preservation-training/training-calendar/event-details?eventid=273)," online (two-hour webinar), NEDCC. Taught: 4 April 2017.  
+"Preserving Removable Digital Media," online (two-hour webinar), NEDCC. Taught: 4 April 2017.  
 
-"[Introduction to Computer Aided Design (CAD) for Archivists](https://www.lyrasis.org/Pages/EventDetail.aspx?Eid=FF6E5D5B-2887-E611-80D3-00155D0A8C44)," online (two-hour webinar), LYRASIS. Taught: 9 March 2017 & 9 September 2017.
+"Introduction to Computer Aided Design (CAD) for Archivists," online (two-hour webinar), LYRASIS. Taught: 9 March 2017 & 9 September 2017.
 
 ## Software Development
 
