@@ -154,7 +154,7 @@ See information on software projects [here](/projects/).
 
 "[Digital Tools for Privacy and Confidentiality: Bulk Reviewer Demo and Q&A](https://www.youtube.com/watch?v=JvSMOelYAr4)" (online webinar), Society of American Archivists Privacy & Confidentiality Section, 16 November 2021.
 
-"[Enacting Environmentally Sustainable Preservation](https://www.dpconline.org/events/enacting-environmentally-sustainable-preservation)" (online webinar with Keith Pendergrass, Walker Sampson, and Laura Alagna), Digital Preservation Coalition, 3 April 2020.
+"[Enacting Environmentally Sustainable Preservation](https://web.archive.org/web/20200929062813/https://www.dpconline.org/events/enacting-environmentally-sustainable-preservation)" (online webinar with Keith Pendergrass, Walker Sampson, and Laura Alagna), Digital Preservation Coalition, 3 April 2020.
 
 "Bulk Reviewer" (webinar), BitCurator Consortium monthly meeting, 22 November 2019.
 
@@ -164,13 +164,13 @@ Brunnhilde demonstration, [Great Digital Preservation Bake-Off](https://ipres201
 
 "Steal this Workflow: Scaling Up Your Digital Preservation Program Through Automation" (three-hour education session with Stefana Breitwieser and Sarah Romkey), Association of Canadian Archivists 2019 Annual Conference, Toronto, ON, 6 June 2019.
 
-"[Episode 7: International Implications](https://www.softwarepreservationnetwork.org/blog/episode-7-international-implications/)" (with Ariel Katz, Peter Jaszi, and Krista Cox), Code of Best Practices in Fair Use for Software Preservation: Webinar Series. Association of Research Libraries/Software Preservation Network, 8 April 2019.
+"[Episode 7: International Implications](https://web.archive.org/web/20230129092825/https://www.softwarepreservationnetwork.org/episode-7-international-implications/)" (with Ariel Katz, Peter Jaszi, and Krista Cox), Code of Best Practices in Fair Use for Software Preservation: Webinar Series. Association of Research Libraries/Software Preservation Network, 8 April 2019.
 
 "[Building REST API-backed Single Page Applications (SPAs) with Vue.js](https://osf.io/gfz6r/)", Code4Lib 2019, San Jose, CA, 20 February 2019.
 
 "[Coping with complex digital objects: from acquisition to access](https://www.youtube.com/watch?v=pQJFA2etYcE)" (video; two hour seminar on development of a digital preservation program and digital archives software tools/workflows at the Canadian Centre for Architecture, with Martien de Vletter, Stefana Breitweiser, Mireille Nappert, and Alexandra Jokinen), Canadian Centre for Architecture, Montreal, QC, 18 January 2019.
 
-"[Bulk Reviewer: A Software Application for Managing Sensitive Information in Digital Archives](http://www.carl-abrc.ca/mini-site-page/risk-north-2-digital-collections-2/agenda/)" (lightning talk), @Risk North 2: Digital Collections, Canadian Association of Research Libraries, Montreal, QC, 9 November 2018.
+"[Bulk Reviewer: A Software Application for Managing Sensitive Information in Digital Archives](https://web.archive.org/web/20200424022135/http://www.carl-abrc.ca/mini-site-page/risk-north-2-digital-collections-2/agenda/)" (lightning talk), @Risk North 2: Digital Collections, Canadian Association of Research Libraries, Montreal, QC, 9 November 2018.
 
 Panel moderator, "[Centralize it!: Creating Infrastructure to Support Digital Preservation](https://osf.io/wrh5t/)", iPRES 2018, Boston, MA, 25 September 2018.
 
@@ -180,33 +180,33 @@ Panel moderator, "[Centralize it!: Creating Infrastructure to Support Digital Pr
 
 "Bulk Reviewer", New Works: Library Innovation Lab Summer Fellow showcase, Harvard Law School, Boston, MA, 2 August 2018.
 
-"[Software Collection Development](https://dpconline.org/events/past-events/webinars/spw-software-collection-development)" (with Anne-Marie Trépanier, Paula Jabloner, Patricia Falcao), Software Preservation Webinar, Digital Preservation Coalition/Software Preservation Network, 2 May 2018.
+"[Software Collection Development](https://web.archive.org/web/20181206105826/https://www.dpconline.org/events/past-events/webinars/spw-software-collection-development)" (with Anne-Marie Trépanier, Paula Jabloner, Patricia Falcao), Software Preservation Webinar, Digital Preservation Coalition/Software Preservation Network, 2 May 2018.
 
-[Archiving Digital Architectural Heritage Experts Meeting](https://collectie.hetnieuweinstituut.nl/bewaren/expertmeeting-archiving-digital-architectural-heritage), Het Nieuewe Instituut, Rotterdam, Netherlands, 20 March 2018.
+[Archiving Digital Architectural Heritage Experts Meeting](https://web.archive.org/web/20180420204603/https://collectie.hetnieuweinstituut.nl/bewaren/expertmeeting-archiving-digital-architectural-heritage), Het Nieuewe Instituut, Rotterdam, Netherlands, 20 March 2018.
 
-"Preservation and Access to Born-Digital Architectural Records: Issues and the CCA Approach," [Save As: Archiving Born-Digital Architectural Materials](http://saltonline.org/en/1722/farkli-kaydet-dijital-olarak-uretilmis-mimari-iceriklerin-arsivlenmesi?home), SALT Galaga, Istanbul, Turkey (presentation by video conference), 1 December 2017. 
+"Preservation and Access to Born-Digital Architectural Records: Issues and the CCA Approach," [Save As: Archiving Born-Digital Architectural Materials](https://web.archive.org/web/20210126033357/https://saltonline.org/en/1722/farkli-kaydet-dijital-olarak-uretilmis-mimari-iceriklerin-arsivlenmesi?home), SALT Galaga, Istanbul, Turkey (presentation by video conference), 1 December 2017.
 
-Closing remarks, [Designing the Future Landscape: Digital Architecture, Design and Engineering Assets](http://www.digitalpreservation.gov/meetings/ade/ade2017.html), Library of Congress, Washington, DC, 16 November 2017.
+Closing remarks, [Designing the Future Landscape: Digital Architecture, Design and Engineering Assets](https://web.archive.org/web/20180313050254/http://digitalpreservation.gov/meetings/ade/ade2017.html), Library of Congress, Washington, DC, 16 November 2017.
 
-"ADE Formats Primer" (with Aliza Leventhal and Katie Pierce Meyer), [Designing the Future Landscape: Digital Architecture, Design and Engineering Assets](http://www.digitalpreservation.gov/meetings/ade/ade2017.html), Library of Congress, Washington, DC, 16 November 2017.
+"ADE Formats Primer" (with Aliza Leventhal and Katie Pierce Meyer), [Designing the Future Landscape: Digital Architecture, Design and Engineering Assets](https://web.archive.org/web/20180313050254/http://digitalpreservation.gov/meetings/ade/ade2017.html), Library of Congress, Washington, DC, 16 November 2017.
 
-"[Software-Driven Workflows for Efficient Processing of Large-Scale Digital Archives](https://archives2017.sched.com/event/c4739bf0b3f07908ebe2df9ab5bf0e95)," ARCHIVES 2017, Session 201: The Future of Appraisal and Processing of Digital Materials: Software, Strategies and Scalability, Portland, OR, 27 July 2017.
+"[Software-Driven Workflows for Efficient Processing of Large-Scale Digital Archives]https://web.archive.org/web/20240430180220/https://archives2017.sched.com/event/c4739bf0b3f07908ebe2df9ab5bf0e95)," ARCHIVES 2017, Session 201: The Future of Appraisal and Processing of Digital Materials: Software, Strategies and Scalability, Portland, OR, 27 July 2017.
 
-"[Automated Processing of Disk Images and Directories in BitCurator](http://bitarchivist.net/blog/2017-05-01-buf2017/)," BitCurator Users Forum, Northwestern University, Chicago, IL, 28 April 2017.
+"[Automated Processing of Disk Images and Directories in BitCurator](https://bitarchivist.net/blog/2017-05-01-buf2017/)," BitCurator Users Forum, Northwestern University, Chicago, IL, 28 April 2017.
 
 "[Selecting an Access and Digital Preservation Platform for Humanities Research in Audio and Video Format: Avalon & Archivematica](http://spectrum.concordia.ca/982042/)," (with Jared Wiercinski and Tomasz Neugebauer), Literary Audio Symposium, Concordia Univeristy, Montreal, QC, 3 December 2016.  
 
-"[Session 309 - DWG, RVT, BIM: A New Kind of Alphabet Soup, with a Lot More Heartburn](https://docs.google.com/presentation/d/1aEPPHzaTWEieZcCS94Hixf2Rv0YdJ8Rht6CWVrD3gHg/edit#slide=id.g15f4caf668_8_0)," Session Chair, ARCHIVES\*RECORDS 2016, Society of American Archivists, Atlanta, GA, 5 August 2016.  
+"Session 309 - DWG, RVT, BIM: A New Kind of Alphabet Soup, with a Lot More Heartburn," Session Chair, ARCHIVES\*RECORDS 2016, Society of American Archivists, Atlanta, GA, 5 August 2016.
 
 "Archaeology of the Digital & Digital Archives at CCA," Museum Archives Section Symposium on Born Digital, ARCHIVES\*RECORDS 2016, Atlanta, GA, 3 August 2016. 
 
-"[Session 4: Partnerships](https://docs.google.com/presentation/d/1-lWc-4TbsJdzce64sIAXpj-KkTw-PkRL6wXbOiPbjig/edit#slide=id.p)," Software Preservation Network Forum, Atlanta, GA, 1 August 2016. 
+"Session 4: Partnerships," Software Preservation Network Forum, Atlanta, GA, 1 August 2016.
 
-"[Introducing Brunnhilde: A reporting tool for digital archives](https://drive.google.com/file/d/0B6tEb8ps0O_MUHZ1aVZzTExHa28/view)," TAATU 2016, Montreal, QC, 1 June 2016. 
+"[Introducing Brunnhilde: A reporting tool for digital archives](https://archive.org/details/taatu_walsh_2016_brunnhilde)," TAATU 2016, Montreal, QC, 1 June 2016.
 
-"[Catching Up With the Present: Archiving born-digital records of architecture and design](http://www.unisa.edu.au/born-digital)," Born-Digital Symposium, University of South Australia Architecture Museum, 19 April 2016. 
+"[Catching Up With the Present: Archiving born-digital records of architecture and design](https://web.archive.org/web/20190406040522/http://www.unisa.edu.au/born-digital)," Born-Digital Symposium, University of South Australia Architecture Museum, 19 April 2016.
 
-"[Archaeology of the Digital and born-digital archives at CCA](http://www.unisa.edu.au/born-digital)," Born-Digital Symposium, University of South Australia Architecture Museum, 18 April 2016. 
+"[Archaeology of the Digital and born-digital archives at CCA](https://web.archive.org/web/20190406040522/http://www.unisa.edu.au/born-digital)," Born-Digital Symposium, University of South Australia Architecture Museum, 18 April 2016.
 
 "99% Digital: CAD & Architectural Archives," 4th Annual Simmons College Graduate Symposium, Boston, MA, March 2015. 
 
