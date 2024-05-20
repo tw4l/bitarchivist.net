@@ -10,11 +10,11 @@ I currently work as Senior Applications and Tools Engineer at [Webrecorder](http
 
 Prior to joining Webrecorder, I was a software developer at [Artefactual Systems](https://artefactual.com), where I worked on the free and open source [Archivematica](https://archivematica.org) and [Access to Memory (AtoM)](https://accesstomemory.org) projects and related tools, and helped a wide range of clients meet their digital preservation, archival management, and access needs.
 
-Before working professionally as a software developer, I developed and implemented digital preservation programs as Digital Preservation Librarian at [Concordia University](https://concordia.ca/) and Digital Archivist at the [Canadian Centre for Architecture](https://cca.qc.ca).
+In my previous professional life, I developed and implemented digital preservation programs as Digital Preservation Librarian at [Concordia University](https://concordia.ca/) and Digital Archivist at the [Canadian Centre for Architecture](https://cca.qc.ca).
 
-I also maintain several free and open source software projects that support digital preservation and curation activities, including [Brunnhilde](https://github.com/tw4l/brunnhilde) and [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and enjoy software development using programming languages and frameworks like Python, Django, Flask, JavaScript/TypeScript, and Vue.js.
+I also maintain several free and open source software projects that support digital preservation and curation activities such as [Brunnhilde](https://github.com/tw4l/brunnhilde) and [Bulk Reviewer](https://github.com/bulk-reviewer/bulk-reviewer), and enjoy software development using programming languages and frameworks like Python, Django, FastAPI, JavaScript/TypeScript, Vue.js, and Lit.
 
-I am a recipient of a [2019 NDSA Excellence Award (originally named to NDSA Individual Innovation Award)](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
+I am a recipient of a [2019 NDSA Excellence Award (originally NDSA Individual Innovation Award)](https://ndsa.org/2019/10/16/ndsa-announces-winners-of-2019-innovation-awards.html) and was a 2018 Summer Fellow at the [Library Innovation Lab](https://lil.law.harvard.edu/) at Harvard University.
 
 Some of my interests and areas of expertise include:
 
