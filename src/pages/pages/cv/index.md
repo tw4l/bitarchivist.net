@@ -18,7 +18,7 @@ path: "/cv"
 **Senior Applications and Tools Engineer** | September 2022 - current
 
 * Works with lead developer and other team members to develop and maintain various free and open source Webrecorder applications, including:
-	* [Browsertrix](https://github.com/webrecorder/browsertrix): High fidelity cloud-native web archiving system implemented in Python/FastAPI (backend), Typescript/LitElement/Shoelace (frontend), and Kubernetes
+	* [Browsertrix](https://github.com/webrecorder/browsertrix): High fidelity cloud-native web archiving system implemented in Python/FastAPI (backend), Typescript/Lit/Shoelace (frontend), and Kubernetes
 	* [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler): Web crawler implemented in TypeScript, Node.js, and Puppeteer, running in a single Docker container
 	* [pywb](https://github.com/webrecorder/pywb): Widely-used wayback machine implemented in Python, JavaScript, and Vue.js
 	* [ReplayWeb.page](https://github.com/webrecorder/replayweb.page): Client-side WARC/WACZ web archive replay system implemented in TypeScript
