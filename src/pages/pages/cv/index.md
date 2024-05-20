@@ -142,6 +142,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+Invited participant, consultative meeting on Governance of AI for the Environment and Sustainable Development, UN Secretary General’s High-Level Advisory Body on Artificial Intelligence (AIAB), online, 20 May 2024.
+
 "Machine-Assisted Quality Assurance in Browsertrix" (with Ilya Kreymer), IIPC Web Archiving Conference 2024, Paris, France, 26 April 2024.
 
 "Workshop: Introduction to Quality Assurance with Browsertrix" (with Ilya Kreymer, Henry Wilkinson), IIPC Web Archiving Conference 2024, Paris, France, 25 April 2024.
