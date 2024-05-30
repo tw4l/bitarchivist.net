@@ -108,6 +108,8 @@ K. Pendergrass, W. Sampson, **T. Walsh**, and L. Alagna. "[Toward Environmentall
 
 #### Non-Peer Reviewed
 
+**T. Walsh**, H. Wilkinson, I. Kreymer. "High Fidelity Web Archiving of News Sites and New Media with Browsertrix," IFLA International News Media Conference 2024, proceedings not yet published.
+
 T. Neugebauer, P. Lasou, A. Kosavic, and **T. Walsh**. "[Digital Preservation Functionality in Canadian Repositories](https://web.archive.org/web/20230601123930/https://www.carl-abrc.ca/wp-content/uploads/2019/12/orwg_report2_preservation_repos_en.pdf)," Canadian Association of Research Libraries, Open Repositories Report Series, December 2019.
 
 J. Meyerson, Z. Vowell, W. Hagenmaier, A. Leventhal, F. Rios, E. Roke and **T. Walsh**. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](https://web.archive.org/web/20180116050541/http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
@@ -141,6 +143,8 @@ Guest lecturer, **Architecture et Information 2.0**, Université de Montreal, Mo
 See information on software projects [here](/projects/).
 
 ## Presentations
+
+"High Fidelity Web Archiving of News Sites and New(s) Media with Browsertrix" (with Ilya Kreymer), IFLA International News Media Conference 2024, remote presentation, 30 May 2024.
 
 Invited participant, consultative meeting on Governance of AI for the Environment and Sustainable Development, UN Secretary General’s High-Level Advisory Body on Artificial Intelligence (AIAB), online, 20 May 2024.
 
