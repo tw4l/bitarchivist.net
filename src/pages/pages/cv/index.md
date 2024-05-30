@@ -114,11 +114,11 @@ T. Neugebauer, P. Lasou, A. Kosavic, and **T. Walsh**. "[Digital Preservation Fu
 
 J. Meyerson, Z. Vowell, W. Hagenmaier, A. Leventhal, F. Rios, E. Roke and **T. Walsh**. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](https://web.archive.org/web/20180116050541/http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
 
-**T. Walsh**. "[How to Access Digital Files From the Nineties](https://web.archive.org/web/20240205032001/https://www.cca.qc.ca/en/articles/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties)," CCA web feature, April 2017.  
+**T. Walsh**. "[How to Access Digital Files From the Nineties](https://web.archive.org/web/20240205032001/https://www.cca.qc.ca/en/articles/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties)," CCA web feature, April 2017.
 
-**T. Walsh**. "[Software Preservation Network: Collecting, Processing, and Providing Access to Software](https://web.archive.org/web/20230402083635/https://saaers.wordpress.com/2016/10/04/software-preservation-network-collecting-processing-and-providing-access-to-software/)," bloggERS!: The Blog of SAA's Electronic Records Section, 4 October 2016.  
+**T. Walsh**. "[Software Preservation Network: Collecting, Processing, and Providing Access to Software](https://web.archive.org/web/20230402083635/https://saaers.wordpress.com/2016/10/04/software-preservation-network-collecting-processing-and-providing-access-to-software/)," bloggERS!: The Blog of SAA's Electronic Records Section, 4 October 2016.
 
-**T. Walsh**. Session review, "[S10. Providing Access to Born-Digital Materials](https://web.archive.org/web/20160417022232/http://newenglandarchivists.org/resources/Documents/Newsletter/NEA_Newsletter_July_2015.pdf)," New England Archivists Newsletter 42 (3), July 2015.  
+**T. Walsh**. Session review, "[S10. Providing Access to Born-Digital Materials](https://web.archive.org/web/20160417022232/http://newenglandarchivists.org/resources/Documents/Newsletter/NEA_Newsletter_July_2015.pdf)," New England Archivists Newsletter 42 (3), July 2015.
 
 ## Teaching
 
