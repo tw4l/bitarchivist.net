@@ -108,7 +108,7 @@ K. Pendergrass, W. Sampson, **T. Walsh**, and L. Alagna. "[Toward Environmentall
 
 #### Non-Peer Reviewed
 
-**T. Walsh**, H. Wilkinson, I. Kreymer. "High Fidelity Web Archiving of News Sites and New Media with Browsertrix," IFLA International News Media Conference 2024, proceedings not yet published.
+**T. Walsh**, H. Wilkinson, and I. Kreymer. "High Fidelity Web Archiving of News Sites and New Media with Browsertrix," IFLA International News Media Conference 2024, proceedings not yet published.
 
 T. Neugebauer, P. Lasou, A. Kosavic, and **T. Walsh**. "[Digital Preservation Functionality in Canadian Repositories](https://web.archive.org/web/20230601123930/https://www.carl-abrc.ca/wp-content/uploads/2019/12/orwg_report2_preservation_repos_en.pdf)," Canadian Association of Research Libraries, Open Repositories Report Series, December 2019.
 
