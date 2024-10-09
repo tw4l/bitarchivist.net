@@ -96,7 +96,7 @@ path: "/cv"
 
 #### Peer Reviewed
 
-J. Whyte, **T. Walsh**. "'Carefully and Cautiously': How Canadian Cultural Memory Workers Review Digital Materials for Private and Sensitive Information," Partnership: The Canadian Journal of Library and Information Practice and Research, 2024 (forthcoming).
+J. Whyte, **T. Walsh**. "['Carefully and Cautiously': How Canadian Cultural Memory Workers Review Digital Materials for Private and Sensitive Information](https://doi.org/10.21083/partnership.v19i1.7180)," Partnership: The Canadian Journal of Library and Information Practice and Research, Volume 19, Number 1, October 2024.
 
 A. Leventhal, J. Collins, **T. Walsh**. "[Of Grasshoppers and Rhinos: A Visual Literacy Approach to Born-Digital Design Records](https://doi.org/10.17723/0360-9081-84.2.281)," The American Archivist, Volume 84, Number 2, Fall/Winter 2021.
 
