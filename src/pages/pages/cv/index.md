@@ -108,6 +108,8 @@ K. Pendergrass, W. Sampson, **T. Walsh**, and L. Alagna. "[Toward Environmentall
 
 #### Non-Peer Reviewed
 
+Q. Dombrowski, **T. Walsh**, A. Kijas, I. Kreymer, and A. Wyatt Visconti. "[DIY Web Archiving: For the Web (& World) You Care About](https://zinebakery.com/homemade-zines/bakeshop-2-diywebarchiving)," Zine Bakery Bakeshop #2, Version 4, 2025.
+
 **T. Walsh**, H. Wilkinson, and I. Kreymer. "[High Fidelity Web Archiving of News Sites and New Media with Browsertrix](https://repository.ifla.org/handle/20.500.14598/3399)," IFLA International News Media Conference 2024.
 
 T. Neugebauer, P. Lasou, A. Kosavic, and **T. Walsh**. "[Digital Preservation Functionality in Canadian Repositories](https://web.archive.org/web/20230601123930/https://www.carl-abrc.ca/wp-content/uploads/2019/12/orwg_report2_preservation_repos_en.pdf)," Canadian Association of Research Libraries, Open Repositories Report Series, December 2019.
@@ -143,6 +145,12 @@ Guest lecturer, **Architecture et Information 2.0**, Université de Montreal, Mo
 See information on software projects [here](/projects/).
 
 ## Presentations
+
+"How to Develop a New Browsertrix Behavior" (with Ilya Kreymer), workshop, IIPC Web Archiving Conference 2025, Oslo, Norway, 10 April 2025.
+
+"Lowering Barriers to Use, Crawling, and Curation: Recent Browsertrix Developments" (with Ilya Kreymer), IIPC Web Archiving Conference 2025, Olso, Norway, 9 April 2025.
+
+"DIY Web Archiving" (with Ilya Kreymer, Quinn Drombrowski, and Anna Kijas), virtual workshop co-sponsored by Webrecorder, SUCHO (Saving Ukrainian Cultural Heritage Online), and ACH (Association for Computers and the Humanities), 25 November, 2024.
 
 "High Fidelity Web Archiving of News Sites and New(s) Media with Browsertrix" (with Ilya Kreymer), IFLA International News Media Conference 2024, remote presentation, 30 May 2024.
 
