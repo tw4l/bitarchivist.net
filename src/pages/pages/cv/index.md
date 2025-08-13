@@ -146,6 +146,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+Panelist, "Archiving Social Media" (with Sakyra Abbitt), webinar, Archiving the Black Web, online, 6 August 2025.
+
 "How to Develop a New Browsertrix Behavior" (with Ilya Kreymer), workshop, IIPC Web Archiving Conference 2025, Oslo, Norway, 10 April 2025.
 
 "Lowering Barriers to Use, Crawling, and Curation: Recent Browsertrix Developments" (with Ilya Kreymer), IIPC Web Archiving Conference 2025, Olso, Norway, 9 April 2025.
