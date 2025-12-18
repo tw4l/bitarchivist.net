@@ -146,6 +146,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+Panelist, "Agnes Bytes: Archiving the Web" (with Kaloyan Kolev), webinar, Agnes Etherington Art Centre, online, 23 October 2025.
+
 Panelist, "Archiving Social Media" (with Sakyra Abbitt), webinar, Archiving the Black Web, online, 6 August 2025.
 
 "How to Develop a New Browsertrix Behavior" (with Ilya Kreymer), workshop, IIPC Web Archiving Conference 2025, Oslo, Norway, 10 April 2025.
