@@ -146,7 +146,7 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
-Panelist, "Agnes Bytes: Archiving the Web" (with Kaloyan Kolev), webinar, Agnes Etherington Art Centre, online, 23 October 2025.
+Panelist, "[Agnes Bytes: Archiving the Web](https://agnes.queensu.ca/digital-agnes/video/agnes-bytes-archiving-the-web/)" (with Kaloyan Kolev), webinar, Agnes Etherington Art Centre, online, 23 October 2025.
 
 Panelist, "Archiving Social Media" (with Sakyra Abbitt), webinar, Archiving the Black Web, online, 6 August 2025.
 
