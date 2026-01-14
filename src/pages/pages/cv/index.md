@@ -146,7 +146,11 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+"[Workshop: How to Develop Custom Browsertrix Behaviors in JavaScript](https://netpreserve.org/event/workshop-custom-browsertrix-behaviors-follow-up/?occurrence=2026-01-14)," webinar, International Internet Preservation Consortium (IIPC), 14 January 2026.
+
 Panelist, "[Agnes Bytes: Archiving the Web](https://agnes.queensu.ca/digital-agnes/video/agnes-bytes-archiving-the-web/)" (with Kaloyan Kolev), webinar, Agnes Etherington Art Centre, online, 23 October 2025.
+
+"[Workshop: Customizing Browsertrix with Behaviors](https://netpreserve.org/event/workshop-customizing-browsertrix-with-behaviors/?occurrence=2025-09-18)," webinar, International Internet Preservation Consortium (IIPC), 18 September 2025.
 
 Panelist, "Archiving Social Media" (with Sakyra Abbitt), webinar, Archiving the Black Web, online, 6 August 2025.
 
