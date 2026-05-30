@@ -146,6 +146,8 @@ See information on software projects [here](/projects/).
 
 ## Presentations
 
+"Deduplication in Browser-Based Crawling with Browsertrix" (with Ilya Kreymer), IIPC Web Archiving Conference 2026, Brussels, Belgium, 22 April 2026.
+
 "[Workshop: How to Develop Custom Browsertrix Behaviors in JavaScript](https://netpreserve.org/event/workshop-custom-browsertrix-behaviors-follow-up/?occurrence=2026-01-14)," webinar, International Internet Preservation Consortium (IIPC), 14 January 2026.
 
 Panelist, "Web Archiving for All! Web Archiving with Browsertrix," 1ª Jornada Virtual de Experiencias sobre Depósito Legal en las Bibliotecas Nacionales de Iberoamérica, Asociación de Estados Iberoamericanos para el Desarrollo de las Bibliotecas Nacionales de los Países de  Iberoamérica (ABINIA), 14 November 2025.
