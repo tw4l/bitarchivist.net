@@ -116,7 +116,7 @@ T. Neugebauer, P. Lasou, A. Kosavic, and **T. Walsh**. "[Digital Preservation Fu
 
 J. Meyerson, Z. Vowell, W. Hagenmaier, A. Leventhal, F. Rios, E. Roke and **T. Walsh**. "[The Software Preservation Network (SPN): A Community Effort to Ensure Long Term Access to Digital Cultural Heritage](https://web.archive.org/web/20180116050541/http://www.dlib.org/dlib/may17/meyerson/05meyerson.html)," DLib Magazine 23, no. 5/6, May/June 2017.
 
-**T. Walsh**, E. Roke, G. Edwards, W. Hagenmaier, D. Noonan, K. Thornton, M. Potterbusch, and L. Work, L. "(2017). "[SPN Metadata Standards Survey: Initial Results, Analysis, and Next Steps](https://doi.org/10.5281/zenodo.23481358)," Zenodo, 2017. 
+**T. Walsh**, E. Roke, G. Edwards, W. Hagenmaier, D. Noonan, K. Thornton, M. Potterbusch, and L. Work, L. "(2017). "[SPN Metadata Standards Survey: Initial Results, Analysis, and Next Steps](https://doi.org/10.5281/zenodo.23481358)," Software Preservation Network, 2017. 
 
 **T. Walsh**. "[How to Access Digital Files From the Nineties](https://web.archive.org/web/20240205032001/https://www.cca.qc.ca/en/articles/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties)," CCA web feature, April 2017.
 
